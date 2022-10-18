@@ -1,0 +1,27 @@
+<? xml version="1.0" ?>
+<Mod>
+    <Id>com-surak-low-desert</Id> 
+    <Name>Low Desert</Name> 
+
+    <Category>Level</Category>
+
+    <Thumbnail>Data/Images/low_desert/thumb.jpg</Thumbnail>
+    <PreviewImage>Data/Images/low_desert/thumb.jpg</PreviewImage>
+
+    <Description>A low desert instead of a high desert.</Description>
+    <Version>0.0.1</Version>
+    <Author>Surak</Author>
+    <Tag>Level</Tag>
+    <Tag>Parkour</Tag>
+    <Tag>Oct2022Jam</Tag>
+
+    <SupportedVersion>*</SupportedVersion>
+    <NeedsRestart>false</NeedsRestart>
+
+    <ModDependency>
+       <Id>simple-shapes</Id>
+       <Version>1.0</Version> 
+    </ModDependency>
+
+    <Level title="Low Desert" thumbnail="UI/mainmenu/images/low_desert.png">low_desert.xml</Level>
+</Mod>
