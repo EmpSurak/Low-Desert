@@ -95,6 +95,54 @@
             <Color label="Spots" channel="3" red="1" green="1" blue="1" />
         </Palette>
     </ActorObject>
+    <Group name="Upside Tech Pyramid" t0="22.4011" t1="-9.24102" t2="6.70357" s0="15" s1="15" s2="15" q0="0" q1="0.803856" q2="0" q3="0.594822" euler_x="3.14159" euler_y="1.27408" euler_z="3.14159" id="10" version="1">
+        <parameters />
+        <EnvObject t0="22.4011" t1="-9.3832" t2="6.70358" s0="6.02744" s1="7.35364" s2="6.02742" q0="0.669106" q1="0" q2="-0.743126" q3="0" euler_x="1.21694e-005" euler_y="1.46549" euler_z="-3.14158" id="8" color_r="1" color_g="1" color_b="1" overbright="0" type_file="Data/Custom/FnB/Objects/Simple Shapes/scifihex/pyramid.xml">
+            <parameters />
+        </EnvObject>
+        <EnvObject t0="22.4011" t1="-1.91488" t2="6.70357" s0="6.39361" s1="1.05051" s2="6.39361" q0="0" q1="-0.743126" q2="0" q3="-0.669106" euler_x="-3.14158" euler_y="1.46549" euler_z="-3.14158" id="9" color_r="1" color_g="1" color_b="1" overbright="0" type_file="Data/Custom/FnB/Objects/Simple Shapes/scifipanel/platform.xml">
+            <parameters />
+        </EnvObject>
+    </Group>
+    <Hotspot name="Rotate Upside Tech Pyramid" t0="20.9827" t1="1.92779" t2="6.08716" s0="1" s1="1" s2="1" q0="0" q1="0" q2="0" q3="1" euler_x="0" euler_y="0" euler_z="0" id="11" type_file="Data/Objects/Hotspots/drika_hotspot.xml">
+        <parameters>
+            <parameter name="Debug Current Line" type="int" val="0" />
+            <parameter name="Run in EditorMode" type="int" val="1" />
+            <parameter name="Script Data" type="string" val='{&quot;functions&quot;:[{&quot;function&quot;:16,&quot;identifier&quot;:&quot;Upside Tech Pyramid&quot;,&quot;identifier_target_location&quot;:-1,&quot;identifier_type&quot;:3,&quot;identifier_type_target_location&quot;:0,&quot;s_bone_name&quot;:&quot;&quot;,&quot;s_copy_bone_position&quot;:false,&quot;s_copy_bone_rotation&quot;:false,&quot;s_flatten_rotation&quot;:false,&quot;s_rotate_relative&quot;:true,&quot;s_rotate_x&quot;:0,&quot;s_rotate_y&quot;:1,&quot;s_rotate_z&quot;:0,&quot;s_scale_x&quot;:15,&quot;s_scale_x_relative&quot;:false,&quot;s_scale_y&quot;:15,&quot;s_scale_y_relative&quot;:false,&quot;s_scale_z&quot;:15,&quot;s_scale_z_relative&quot;:false,&quot;s_transform_to_bone&quot;:false,&quot;s_transform_to_target_first&quot;:false,&quot;s_transform_x&quot;:0,&quot;s_transform_x_relative&quot;:true,&quot;s_transform_y&quot;:0,&quot;s_transform_y_relative&quot;:true,&quot;s_transform_z&quot;:0,&quot;s_transform_z_relative&quot;:true,&quot;transform_mode&quot;:3,&quot;translation_offset&quot;:[0,0,0],&quot;use_target_location&quot;:true,&quot;use_target_rotation&quot;:false,&quot;use_target_scale&quot;:false},{&quot;duration&quot;:20,&quot;function&quot;:2},{&quot;function&quot;:7,&quot;line&quot;:0}]}&#x0A;' />
+            <parameter name="Show UI Grid" type="int" val="1" />
+            <parameter name="Transform Relative" type="int" val="0" />
+            <parameter name="UI Snap Scale" type="int" val="20" />
+        </parameters>
+        <Connections />
+        <ConnectionsFrom />
+    </Hotspot>
+    <Group t0="15" t1="-15.6806" t2="-13" s0="10.242" s1="10.1913" s2="10.2556" q0="0" q1="0" q2="0" q3="1" euler_x="0" euler_y="0" euler_z="0" id="12" version="1">
+        <parameters />
+        <EnvObject t0="15" t1="-15.7712" t2="-13" s0="5" s1="5" s2="5" q0="0" q1="0" q2="0" q3="1" euler_x="0" euler_y="0" euler_z="0" id="6" color_r="0.180392" color_g="0.18039" color_b="0.18039" overbright="0" type_file="Data/Custom/FnB/Objects/Simple Shapes/brain/cylinder.xml">
+            <parameters />
+        </EnvObject>
+        <EnvObject t0="15" t1="-15.6766" t2="-13" s0="1.1" s1="9.44212" s2="1.1" q0="0" q1="0.000234753" q2="0" q3="1" euler_x="0" euler_y="0.000469506" euler_z="0" id="7" color_r="1" color_g="1" color_b="1" overbright="0" type_file="Data/Custom/FnB/Objects/Simple Shapes/concretesolid/ring.xml">
+            <parameters />
+        </EnvObject>
+    </Group>
+    <Group t0="7.29826" t1="-8.80201" t2="25.5053" s0="15" s1="15" s2="15" q0="0" q1="0" q2="0" q3="1" euler_x="0" euler_y="0" euler_z="0" id="13" version="1">
+        <parameters />
+        <EnvObject t0="7.29826" t1="-8.93546" t2="25.5053" s0="7.3228" s1="7.3592" s2="7.31305" q0="0" q1="0" q2="0" q3="1" euler_x="0" euler_y="0" euler_z="0" id="14" color_r="0.180392" color_g="0.18039" color_b="0.18039" overbright="0" type_file="Data/Custom/FnB/Objects/Simple Shapes/brain/cylinder.xml">
+            <parameters />
+        </EnvObject>
+        <EnvObject t0="7.29826" t1="-8.79612" t2="25.5053" s0="1.61102" s1="13.8973" s2="1.60887" q0="0" q1="0.000234753" q2="0" q3="1" euler_x="0" euler_y="0.000469506" euler_z="0" id="15" color_r="1" color_g="1" color_b="1" overbright="0" type_file="Data/Custom/FnB/Objects/Simple Shapes/concretesolid/ring.xml">
+            <parameters />
+        </EnvObject>
+    </Group>
+    <Group t0="50.2707" t1="-10.3767" t2="6.61119" s0="20" s1="20" s2="20" q0="0" q1="0" q2="0" q3="1" euler_x="0" euler_y="0" euler_z="0" id="16" version="1">
+        <parameters />
+        <EnvObject t0="50.2707" t1="-10.5546" t2="6.61118" s0="9.76374" s1="9.81226" s2="9.75073" q0="0" q1="0" q2="0" q3="1" euler_x="0" euler_y="0" euler_z="0" id="17" color_r="0.180392" color_g="0.18039" color_b="0.18039" overbright="0" type_file="Data/Custom/FnB/Objects/Simple Shapes/brain/cylinder.xml">
+            <parameters />
+        </EnvObject>
+        <EnvObject t0="50.2707" t1="-10.3688" t2="6.61119" s0="2.14802" s1="18.5297" s2="2.14516" q0="0" q1="0.000234753" q2="0" q3="1" euler_x="0" euler_y="0.000469506" euler_z="0" id="18" color_r="1" color_g="1" color_b="1" overbright="0" type_file="Data/Custom/FnB/Objects/Simple Shapes/concretesolid/ring.xml">
+            <parameters />
+        </EnvObject>
+    </Group>
     <EnvObject t0="0" t1="-16.0506" t2="0" s0="5" s1="3" s2="5" q0="0" q1="0" q2="0" q3="1" euler_x="0" euler_y="0" euler_z="0" id="19" color_r="0.145098" color_g="0.145097" color_b="0.145097" overbright="0" type_file="Data/Custom/FnB/Objects/Simple Shapes/brain/cylinder.xml">
         <parameters />
     </EnvObject>
@@ -104,10 +152,20 @@
     <EnvObject t0="0" t1="-8.67191" t2="0" s0="1.1" s1="23.3119" s2="1.1" q0="0" q1="0" q2="0" q3="1" euler_x="0" euler_y="0" euler_z="0" id="21" color_r="0.00392157" color_g="0.0021684" color_b="0.0021684" overbright="0" type_file="Data/Custom/FnB/Objects/Simple Shapes/glass/ringthin.xml">
         <parameters />
     </EnvObject>
-    <CameraObject t0="28.3951" t1="0.672731" t2="29.7571" s0="1" s1="1" s2="1" q0="0.159195" q1="-0.482421" q2="0.0896477" q3="0.856674" euler_x="0.367467" euler_y="-1.02574" euler_z="0" id="271">
+    <Group t0="35.4708" t1="-4.53737" t2="-41.5406" s0="30" s1="30" s2="30" q0="0" q1="0" q2="0" q3="1" euler_x="0" euler_y="0" euler_z="0" id="22" version="1">
+        <parameters />
+        <EnvObject t0="35.4708" t1="-4.80426" t2="-41.5406" s0="14.6456" s1="14.7184" s2="14.6261" q0="0" q1="0" q2="0" q3="1" euler_x="0" euler_y="0" euler_z="0" id="23" color_r="0.180392" color_g="0.18039" color_b="0.18039" overbright="0" type_file="Data/Custom/FnB/Objects/Simple Shapes/brain/cylinder.xml">
+            <parameters />
+        </EnvObject>
+        <EnvObject t0="35.4708" t1="-4.52558" t2="-41.5406" s0="3.22203" s1="27.7946" s2="3.21774" q0="0" q1="0.000234753" q2="0" q3="1" euler_x="0" euler_y="0.000469506" euler_z="0" id="24" color_r="1" color_g="1" color_b="1" overbright="0" type_file="Data/Custom/FnB/Objects/Simple Shapes/concretesolid/ring.xml">
+            <parameters />
+        </EnvObject>
+    </Group>
+    <CameraObject t0="-14.3938" t1="38.0051" t2="-30.0466" s0="1" s1="1" s2="1" q0="-0.181603" q1="-0.815846" q2="0.350874" q3="-0.42226" euler_x="-2.32927" euler_y="0.955215" euler_z="-3.14159" id="271">
         <parameters />
     </CameraObject>
 </ActorObjects>
 <RecentItems>
     <SpawnerItem display_name="Male Rabbit Buttons" path="Data/Objects/characters/rabbits/male_rabbit_3_actor.xml" thumbnail_path="Data/UI/spawner/thumbs/Character/Male_rabbit_3_actor.png" />
+    <SpawnerItem display_name="Drika Hotspot" path="Data/Objects/Hotspots/drika_hotspot.xml" thumbnail_path="Data/UI/spawner/thumbs/Utility/empty_placeholder.png" />
 </RecentItems>
