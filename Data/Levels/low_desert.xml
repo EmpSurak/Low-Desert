@@ -95,20 +95,20 @@
             <Color label="Spots" channel="3" red="1" green="1" blue="1" />
         </Palette>
     </ActorObject>
-    <Group name="Upside Tech Pyramid" t0="22.4011" t1="-9.24102" t2="6.70357" s0="15" s1="15" s2="15" q0="0" q1="0.803856" q2="0" q3="0.594822" euler_x="3.14159" euler_y="1.27408" euler_z="3.14159" id="10" version="1">
+    <Group name="Upside Tech Pyramid" t0="22.4011" t1="-8.86504" t2="6.70358" s0="15" s1="15" s2="15" q0="0" q1="-0.999042" q2="0" q3="0.0436203" euler_x="3.14159" euler_y="-0.0872679" euler_z="-3.14159" id="10" version="1">
         <parameters />
-        <EnvObject t0="22.4011" t1="-9.3832" t2="6.70358" s0="6.02744" s1="7.35364" s2="6.02742" q0="0.669106" q1="0" q2="-0.743126" q3="0" euler_x="1.21694e-005" euler_y="1.46549" euler_z="-3.14158" id="8" color_r="1" color_g="1" color_b="1" overbright="0" type_file="Data/Custom/FnB/Objects/Simple Shapes/scifihex/pyramid.xml">
+        <EnvObject t0="22.4011" t1="-9.00722" t2="6.70357" s0="6.02744" s1="7.35364" s2="6.02742" q0="-0.0523273" q1="0" q2="0.998595" q3="-1.13249e-006" euler_x="-1.81188e-006" euler_y="0.104699" euler_z="-3.14159" id="8" color_r="1" color_g="1" color_b="1" overbright="0" type_file="Data/Custom/FnB/Objects/Simple Shapes/scifihex/pyramid.xml">
             <parameters />
         </EnvObject>
-        <EnvObject t0="22.4011" t1="-1.91488" t2="6.70357" s0="6.39361" s1="1.05051" s2="6.39361" q0="0" q1="-0.743126" q2="0" q3="-0.669106" euler_x="-3.14158" euler_y="1.46549" euler_z="-3.14158" id="9" color_r="1" color_g="1" color_b="1" overbright="0" type_file="Data/Custom/FnB/Objects/Simple Shapes/scifipanel/platform.xml">
+        <EnvObject t0="22.4011" t1="-1.5389" t2="6.70358" s0="6.39361" s1="1.05051" s2="6.39361" q0="-1.11386e-006" q1="0.998595" q2="0" q3="0.0523273" euler_x="3.14159" euler_y="0.104699" euler_z="-3.14159" id="9" color_r="1" color_g="1" color_b="1" overbright="0" type_file="Data/Custom/FnB/Objects/Simple Shapes/scifipanel/platform.xml">
             <parameters />
         </EnvObject>
     </Group>
-    <Hotspot name="Rotate Upside Tech Pyramid" t0="20.9827" t1="1.92779" t2="6.08716" s0="1" s1="1" s2="1" q0="0" q1="0" q2="0" q3="1" euler_x="0" euler_y="0" euler_z="0" id="11" type_file="Data/Objects/Hotspots/drika_hotspot.xml">
+    <Hotspot name="Rotate Tech Pyramid" t0="21.9208" t1="2.62217" t2="5.54056" s0="1" s1="1" s2="1" q0="0" q1="0" q2="0" q3="1" euler_x="0" euler_y="0" euler_z="0" id="11" type_file="Data/Objects/Hotspots/drika_hotspot.xml">
         <parameters>
             <parameter name="Debug Current Line" type="int" val="0" />
             <parameter name="Run in EditorMode" type="int" val="1" />
-            <parameter name="Script Data" type="string" val='{&quot;functions&quot;:[{&quot;function&quot;:16,&quot;identifier&quot;:&quot;Upside Tech Pyramid&quot;,&quot;identifier_target_location&quot;:-1,&quot;identifier_type&quot;:3,&quot;identifier_type_target_location&quot;:0,&quot;s_bone_name&quot;:&quot;&quot;,&quot;s_copy_bone_position&quot;:false,&quot;s_copy_bone_rotation&quot;:false,&quot;s_flatten_rotation&quot;:false,&quot;s_rotate_relative&quot;:true,&quot;s_rotate_x&quot;:0,&quot;s_rotate_y&quot;:1,&quot;s_rotate_z&quot;:0,&quot;s_scale_x&quot;:15,&quot;s_scale_x_relative&quot;:false,&quot;s_scale_y&quot;:15,&quot;s_scale_y_relative&quot;:false,&quot;s_scale_z&quot;:15,&quot;s_scale_z_relative&quot;:false,&quot;s_transform_to_bone&quot;:false,&quot;s_transform_to_target_first&quot;:false,&quot;s_transform_x&quot;:0,&quot;s_transform_x_relative&quot;:true,&quot;s_transform_y&quot;:0,&quot;s_transform_y_relative&quot;:true,&quot;s_transform_z&quot;:0,&quot;s_transform_z_relative&quot;:true,&quot;transform_mode&quot;:3,&quot;translation_offset&quot;:[0,0,0],&quot;use_target_location&quot;:true,&quot;use_target_rotation&quot;:false,&quot;use_target_scale&quot;:false},{&quot;duration&quot;:20,&quot;function&quot;:2},{&quot;function&quot;:7,&quot;line&quot;:0}]}&#x0A;' />
+            <parameter name="Script Data" type="string" val='{&quot;functions&quot;:[{&quot;function&quot;:16,&quot;identifier&quot;:&quot;Upside Tech Pyramid&quot;,&quot;identifier_target_location&quot;:-1,&quot;identifier_type&quot;:3,&quot;identifier_type_target_location&quot;:0,&quot;s_bone_name&quot;:&quot;&quot;,&quot;s_copy_bone_position&quot;:false,&quot;s_copy_bone_rotation&quot;:false,&quot;s_flatten_rotation&quot;:false,&quot;s_rotate_relative&quot;:true,&quot;s_rotate_x&quot;:0,&quot;s_rotate_y&quot;:1,&quot;s_rotate_z&quot;:0,&quot;s_scale_x&quot;:15,&quot;s_scale_x_relative&quot;:false,&quot;s_scale_y&quot;:15,&quot;s_scale_y_relative&quot;:false,&quot;s_scale_z&quot;:15,&quot;s_scale_z_relative&quot;:false,&quot;s_transform_to_bone&quot;:false,&quot;s_transform_to_target_first&quot;:false,&quot;s_transform_x&quot;:0,&quot;s_transform_x_relative&quot;:true,&quot;s_transform_y&quot;:0,&quot;s_transform_y_relative&quot;:true,&quot;s_transform_z&quot;:0,&quot;s_transform_z_relative&quot;:true,&quot;transform_mode&quot;:3,&quot;translation_offset&quot;:[0,0,0],&quot;use_target_location&quot;:true,&quot;use_target_rotation&quot;:false,&quot;use_target_scale&quot;:false},{&quot;function&quot;:16,&quot;identifier&quot;:&quot;Tech Pyramid&quot;,&quot;identifier_target_location&quot;:-1,&quot;identifier_type&quot;:3,&quot;identifier_type_target_location&quot;:0,&quot;s_bone_name&quot;:&quot;&quot;,&quot;s_copy_bone_position&quot;:false,&quot;s_copy_bone_rotation&quot;:false,&quot;s_flatten_rotation&quot;:false,&quot;s_rotate_relative&quot;:true,&quot;s_rotate_x&quot;:0,&quot;s_rotate_y&quot;:-1,&quot;s_rotate_z&quot;:0,&quot;s_scale_x&quot;:15,&quot;s_scale_x_relative&quot;:false,&quot;s_scale_y&quot;:15,&quot;s_scale_y_relative&quot;:false,&quot;s_scale_z&quot;:15,&quot;s_scale_z_relative&quot;:false,&quot;s_transform_to_bone&quot;:false,&quot;s_transform_to_target_first&quot;:false,&quot;s_transform_x&quot;:0,&quot;s_transform_x_relative&quot;:true,&quot;s_transform_y&quot;:0,&quot;s_transform_y_relative&quot;:true,&quot;s_transform_z&quot;:0,&quot;s_transform_z_relative&quot;:true,&quot;transform_mode&quot;:3,&quot;translation_offset&quot;:[0,0,0],&quot;use_target_location&quot;:true,&quot;use_target_rotation&quot;:false,&quot;use_target_scale&quot;:false},{&quot;duration&quot;:20,&quot;function&quot;:2},{&quot;function&quot;:7,&quot;line&quot;:0}]}&#x0A;' />
             <parameter name="Show UI Grid" type="int" val="1" />
             <parameter name="Transform Relative" type="int" val="0" />
             <parameter name="UI Snap Scale" type="int" val="20" />
@@ -161,7 +161,16 @@
             <parameters />
         </EnvObject>
     </Group>
-    <CameraObject t0="-14.3938" t1="38.0051" t2="-30.0466" s0="1" s1="1" s2="1" q0="-0.181603" q1="-0.815846" q2="0.350874" q3="-0.42226" euler_x="-2.32927" euler_y="0.955215" euler_z="-3.14159" id="271">
+    <Group name="Tech Pyramid" t0="22.4011" t1="14.511" t2="6.70359" s0="15" s1="15" s2="15" q0="-0.292352" q1="0" q2="-0.956303" q3="0" euler_x="0" euler_y="-0.593365" euler_z="-3.14159" id="25" version="1">
+        <parameters />
+        <EnvObject t0="22.4011" t1="14.6532" t2="6.70358" s0="6.02744" s1="7.35364" s2="6.02742" q0="0" q1="-0.92045" q2="0" q3="0.390682" euler_x="3.14159" euler_y="-0.802659" euler_z="3.14159" id="26" color_r="1" color_g="1" color_b="1" overbright="0" type_file="Data/Custom/FnB/Objects/Simple Shapes/scifihex/pyramid.xml">
+            <parameters />
+        </EnvObject>
+        <EnvObject t0="22.4011" t1="7.18485" t2="6.70358" s0="6.39361" s1="1.05051" s2="6.39361" q0="0.390682" q1="0" q2="0.92045" q3="0" euler_x="0" euler_y="-0.802659" euler_z="3.14159" id="27" color_r="1" color_g="1" color_b="1" overbright="0" type_file="Data/Custom/FnB/Objects/Simple Shapes/scifipanel/platform.xml">
+            <parameters />
+        </EnvObject>
+    </Group>
+    <CameraObject t0="-7.34031" t1="15.4571" t2="-24.997" s0="1" s1="1" s2="1" q0="-0.0376905" q1="-0.941065" q2="0.111911" q3="-0.316941" euler_x="-2.90487" euler_y="0.649716" euler_z="-3.14159" id="271">
         <parameters />
     </CameraObject>
 </ActorObjects>
