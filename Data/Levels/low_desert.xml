@@ -45,7 +45,7 @@
     <RayToSun r0="-0.018092" r1="0.749923" r2="0.661278" />
 </Sky>
 <ActorObjects>
-    <ActorObject t0="-4.17233e-005" t1="-12.7288" t2="5.05447e-005" s0="1" s1="1" s2="1" q0="0" q1="0" q2="0" q3="1" euler_x="0" euler_y="0" euler_z="0" id="1" type_file="Data/Objects/characters/rabbits/male_rabbit_3_actor.xml" is_player="1">
+    <ActorObject t0="-4.17233e-005" t1="-11.8573" t2="5.05447e-005" s0="1" s1="1" s2="1" q0="0" q1="0" q2="0" q3="1" euler_x="0" euler_y="0" euler_z="0" id="1" type_file="Data/Objects/characters/rabbits/male_rabbit_3_actor.xml" is_player="1">
         <parameters>
             <parameter name="Aggression" type="float" val="0.5" />
             <parameter name="Attack Damage" type="float" val="1" />
@@ -95,7 +95,16 @@
             <Color label="Spots" channel="3" red="1" green="1" blue="1" />
         </Palette>
     </ActorObject>
-    <CameraObject t0="-2.10836" t1="6.78124" t2="-15.9669" s0="1" s1="1" s2="1" q0="0.0162141" q1="0.953487" q2="-0.296445" q3="0.052151" euler_x="-2.53873" euler_y="0.109281" euler_z="3.14159" id="271">
+    <EnvObject t0="0" t1="-16.0506" t2="0" s0="5" s1="3" s2="5" q0="0" q1="0" q2="0" q3="1" euler_x="0" euler_y="0" euler_z="0" id="19" color_r="0.145098" color_g="0.145097" color_b="0.145097" overbright="0" type_file="Data/Custom/FnB/Objects/Simple Shapes/brain/cylinder.xml">
+        <parameters />
+    </EnvObject>
+    <EnvObject t0="0" t1="-14.8502" t2="0" s0="1.1" s1="5" s2="1.1" q0="0" q1="0" q2="0" q3="1" euler_x="0" euler_y="0" euler_z="0" id="20" color_r="1" color_g="1" color_b="1" overbright="0" type_file="Data/Custom/FnB/Objects/Simple Shapes/concretesolid/torus.xml">
+        <parameters />
+    </EnvObject>
+    <EnvObject t0="0" t1="-8.67191" t2="0" s0="1.1" s1="23.3119" s2="1.1" q0="0" q1="0" q2="0" q3="1" euler_x="0" euler_y="0" euler_z="0" id="21" color_r="0.00392157" color_g="0.0021684" color_b="0.0021684" overbright="0" type_file="Data/Custom/FnB/Objects/Simple Shapes/glass/ringthin.xml">
+        <parameters />
+    </EnvObject>
+    <CameraObject t0="28.3951" t1="0.672731" t2="29.7571" s0="1" s1="1" s2="1" q0="0.159195" q1="-0.482421" q2="0.0896477" q3="0.856674" euler_x="0.367467" euler_y="-1.02574" euler_z="0" id="271">
         <parameters />
     </CameraObject>
 </ActorObjects>
