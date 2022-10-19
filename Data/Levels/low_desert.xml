@@ -104,12 +104,12 @@
             <parameters />
         </EnvObject>
     </Group>
-    <Group name="Upside Tech Pyramid" t0="10" t1="-8.86504" t2="-10" s0="15" s1="15" s2="15" q0="0" q1="0.95628" q2="0" q3="0.292359" euler_x="-3.14159" euler_y="0.593366" euler_z="-3.14159" id="10" version="1">
+    <Group name="Upside Tech Pyramid" t0="22.4011" t1="-8.86504" t2="6.70358" s0="15" s1="15" s2="15" q0="0" q1="-0.406695" q2="0" q3="0.913485" euler_x="0" euler_y="-0.837571" euler_z="1.01845e-006" id="10" version="1">
         <parameters />
-        <EnvObject t0="10" t1="-9.00722" t2="-10" s0="6.02744" s1="7.35364" s2="6.02742" q0="0.3907" q1="0" q2="-0.920458" q3="1.86265e-006" euler_x="0" euler_y="0.802715" euler_z="-3.14159" id="8" color_r="1" color_g="1" color_b="1" overbright="0" type_file="Data/Custom/FnB/Objects/Simple Shapes/scifihex/pyramid.xml">
+        <EnvObject t0="22.4011" t1="-9.00722" t2="6.70357" s0="6.02744" s1="7.35364" s2="6.02742" q0="0.870277" q1="0" q2="0.492357" q3="0" euler_x="-3.14159" euler_y="-1.02937" euler_z="-2.3178e-006" id="8" color_r="1" color_g="1" color_b="1" overbright="0" type_file="Data/Custom/FnB/Objects/Simple Shapes/scifihex/pyramid.xml">
             <parameters />
         </EnvObject>
-        <EnvObject t0="9.99999" t1="-1.5389" t2="-10" s0="6.39361" s1="1.05051" s2="6.39361" q0="1.84774e-006" q1="-0.920458" q2="0" q3="-0.3907" euler_x="-3.14159" euler_y="0.802715" euler_z="-3.14159" id="9" color_r="1" color_g="1" color_b="1" overbright="0" type_file="Data/Custom/FnB/Objects/Simple Shapes/scifipanel/platform.xml">
+        <EnvObject t0="22.4011" t1="-1.5389" t2="6.70358" s0="6.39361" s1="1.05051" s2="6.39361" q0="0" q1="0.492358" q2="0" q3="-0.870277" euler_x="2.40857e-006" euler_y="-1.02937" euler_z="-2.32112e-006" id="9" color_r="1" color_g="1" color_b="1" overbright="0" type_file="Data/Custom/FnB/Objects/Simple Shapes/scifipanel/platform.xml">
             <parameters />
         </EnvObject>
     </Group>
@@ -143,21 +143,21 @@
             <parameters />
         </EnvObject>
     </Group>
-    <Group t0="35.4708" t1="-4.53737" t2="-41.5406" s0="30" s1="30" s2="30" q0="0" q1="0" q2="0" q3="1" euler_x="0" euler_y="0" euler_z="0" id="22" version="1">
+    <Group t0="35.5" t1="-4.53737" t2="-41.5" s0="30" s1="30" s2="30" q0="0" q1="0" q2="0" q3="1" euler_x="0" euler_y="0" euler_z="0" id="22" version="1">
         <parameters />
-        <EnvObject t0="35.4708" t1="-4.80426" t2="-41.5406" s0="14.6456" s1="14.7184" s2="14.6261" q0="0" q1="0" q2="0" q3="1" euler_x="0" euler_y="0" euler_z="0" id="23" color_r="0.180392" color_g="0.18039" color_b="0.18039" overbright="0" type_file="Data/Custom/FnB/Objects/Simple Shapes/brain/cylinder.xml">
+        <EnvObject t0="35.5" t1="-4.80426" t2="-41.5" s0="14.6456" s1="14.7184" s2="14.6261" q0="0" q1="0" q2="0" q3="1" euler_x="0" euler_y="0" euler_z="0" id="23" color_r="0.180392" color_g="0.18039" color_b="0.18039" overbright="0" type_file="Data/Custom/FnB/Objects/Simple Shapes/brain/cylinder.xml">
             <parameters />
         </EnvObject>
-        <EnvObject t0="35.4708" t1="-4.52558" t2="-41.5406" s0="3.22203" s1="27.7946" s2="3.21774" q0="0" q1="0.000234753" q2="0" q3="1" euler_x="0" euler_y="0.000469506" euler_z="0" id="24" color_r="1" color_g="1" color_b="1" overbright="0" type_file="Data/Custom/FnB/Objects/Simple Shapes/concretesolid/ring.xml">
+        <EnvObject t0="35.5" t1="-4.52558" t2="-41.5" s0="3.22203" s1="27.7946" s2="3.21774" q0="0" q1="0.000234753" q2="0" q3="1" euler_x="0" euler_y="0.000469506" euler_z="0" id="24" color_r="1" color_g="1" color_b="1" overbright="0" type_file="Data/Custom/FnB/Objects/Simple Shapes/concretesolid/ring.xml">
             <parameters />
         </EnvObject>
     </Group>
-    <Group name="Tech Pyramid" t0="10" t1="14.511" t2="-10" s0="15" s1="15" s2="15" q0="0.60178" q1="-1.43051e-006" q2="0.798626" q3="1.05379e-006" euler_x="-3.687e-006" euler_y="-1.2913" euler_z="-3.14159" id="25" version="1">
+    <Group name="Tech Pyramid" t0="22.4011" t1="14.511" t2="6.70359" s0="15" s1="15" s2="15" q0="0.725337" q1="1.54972e-006" q2="-0.688282" q3="1.81608e-006" euler_x="3.14158" euler_y="1.51554" euler_z="-4.79318e-006" id="25" version="1">
         <parameters />
-        <EnvObject t0="10" t1="14.6532" t2="-10" s0="6.02744" s1="7.35364" s2="6.02742" q0="1.96695e-006" q1="0.731305" q2="1.49012e-006" q3="-0.681916" euler_x="-3.14159" euler_y="-1.49836" euler_z="3.14158" id="26" color_r="1" color_g="1" color_b="1" overbright="0" type_file="Data/Custom/FnB/Objects/Simple Shapes/scifihex/pyramid.xml">
+        <EnvObject t0="22.4011" t1="14.6532" t2="6.7036" s0="6.02744" s1="7.35364" s2="6.02742" q0="1.78814e-006" q1="-0.760279" q2="-2.38419e-006" q3="-0.649382" euler_x="3.14158" euler_y="1.41203" euler_z="3.14159" id="26" color_r="1" color_g="1" color_b="1" overbright="0" type_file="Data/Custom/FnB/Objects/Simple Shapes/scifihex/pyramid.xml">
             <parameters />
         </EnvObject>
-        <EnvObject t0="9.99997" t1="7.18485" t2="-10" s0="6.39361" s1="1.05051" s2="6.39361" q0="-0.681916" q1="1.43796e-006" q2="-0.731305" q3="-1.90735e-006" euler_x="7.11797e-006" euler_y="-1.49836" euler_z="3.14158" id="27" color_r="1" color_g="1" color_b="1" overbright="0" type_file="Data/Custom/FnB/Objects/Simple Shapes/scifipanel/platform.xml">
+        <EnvObject t0="22.4011" t1="7.18485" t2="6.70359" s0="6.39361" s1="1.05051" s2="6.39361" q0="-0.649382" q1="-2.34693e-006" q2="0.760279" q3="-1.76579e-006" euler_x="-8.14343e-006" euler_y="1.41203" euler_z="3.14159" id="27" color_r="1" color_g="1" color_b="1" overbright="0" type_file="Data/Custom/FnB/Objects/Simple Shapes/scifipanel/platform.xml">
             <parameters />
         </EnvObject>
     </Group>
@@ -209,7 +209,19 @@
             <parameters />
         </EnvObject>
     </Group>
-    <CameraObject t0="12.9762" t1="54.0861" t2="36.1967" s0="1" s1="1" s2="1" q0="0.450199" q1="-0.0327075" q2="0.0165045" q3="0.892176" euler_x="0.934654" euler_y="-0.0732878" euler_z="0" id="271">
+    <EnvObject t0="35.5" t1="23.1391" t2="-41.5" s0="1.43729" s1="1.43729" s2="1.43729" q0="0" q1="0" q2="0" q3="1" euler_x="0" euler_y="0" euler_z="0" id="40" color_r="0.403922" color_g="0.446566" color_b="1" overbright="0" type_file="Data/Custom/FnB/Objects/Simple Shapes/scifihex/ring.xml">
+        <parameters />
+    </EnvObject>
+    <Group t0="35.5" t1="16.0723" t2="-41.5" s0="6.52062" s1="14.1434" s2="4.18948" q0="0" q1="0" q2="0" q3="1" euler_x="0" euler_y="0" euler_z="0" id="41" version="1">
+        <parameters />
+        <EnvObject t0="33.2995" t1="16.0723" t2="-41.5" s0="1" s1="2.7987" s2="1" q0="0" q1="0" q2="0" q3="1" euler_x="0" euler_y="0" euler_z="0" id="38" color_r="0.846997" color_g="0.772549" color_b="1" overbright="0" type_file="Data/Custom/FnB/Objects/Simple Shapes/scifipanel/half_cylinder.xml">
+            <parameters />
+        </EnvObject>
+        <EnvObject t0="37.7005" t1="16.0723" t2="-41.5" s0="1" s1="2.7987" s2="1" q0="0" q1="1" q2="0" q3="0" euler_x="3.14159" euler_y="0" euler_z="-3.14159" id="39" color_r="0.846997" color_g="0.772549" color_b="1" overbright="0" type_file="Data/Custom/FnB/Objects/Simple Shapes/scifipanel/half_cylinder.xml">
+            <parameters />
+        </EnvObject>
+    </Group>
+    <CameraObject t0="43.5154" t1="29.068" t2="-11.4272" s0="1" s1="1" s2="1" q0="0.221521" q1="-0.179245" q2="0.0414627" q3="0.957643" euler_x="0.454641" euler_y="-0.370064" euler_z="0" id="271">
         <parameters />
     </CameraObject>
 </ActorObjects>
