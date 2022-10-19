@@ -95,12 +95,12 @@
             <Color label="Spots" channel="3" red="1" green="1" blue="1" />
         </Palette>
     </ActorObject>
-    <Group name="Upside Tech Pyramid" t0="22.4011" t1="-8.86504" t2="6.70358" s0="15" s1="15" s2="15" q0="0" q1="-0.999042" q2="0" q3="0.0436203" euler_x="3.14159" euler_y="-0.0872679" euler_z="-3.14159" id="10" version="1">
+    <Group name="Upside Tech Pyramid" t0="22.4011" t1="-8.86504" t2="6.70358" s0="15" s1="15" s2="15" q0="0" q1="0.41464" q2="0" q3="-0.909883" euler_x="0" euler_y="-0.854964" euler_z="0" id="10" version="1">
         <parameters />
-        <EnvObject t0="22.4011" t1="-9.00722" t2="6.70357" s0="6.02744" s1="7.35364" s2="6.02742" q0="-0.0523273" q1="0" q2="0.998595" q3="-1.13249e-006" euler_x="-1.81188e-006" euler_y="0.104699" euler_z="-3.14159" id="8" color_r="1" color_g="1" color_b="1" overbright="0" type_file="Data/Custom/FnB/Objects/Simple Shapes/scifihex/pyramid.xml">
+        <EnvObject t0="22.4011" t1="-9.00722" t2="6.70357" s0="6.02744" s1="7.35364" s2="6.02742" q0="-0.86593" q1="0" q2="-0.49992" q3="0" euler_x="-3.14159" euler_y="-1.04673" euler_z="-2.09766e-006" id="8" color_r="1" color_g="1" color_b="1" overbright="0" type_file="Data/Custom/FnB/Objects/Simple Shapes/scifihex/pyramid.xml">
             <parameters />
         </EnvObject>
-        <EnvObject t0="22.4011" t1="-1.5389" t2="6.70358" s0="6.39361" s1="1.05051" s2="6.39361" q0="-1.11386e-006" q1="0.998595" q2="0" q3="0.0523273" euler_x="3.14159" euler_y="0.104699" euler_z="-3.14159" id="9" color_r="1" color_g="1" color_b="1" overbright="0" type_file="Data/Custom/FnB/Objects/Simple Shapes/scifipanel/platform.xml">
+        <EnvObject t0="22.4011" t1="-1.5389" t2="6.70357" s0="6.39361" s1="1.05051" s2="6.39361" q0="0" q1="-0.49992" q2="0" q3="0.86593" euler_x="1.27876e-006" euler_y="-1.04673" euler_z="-1.97664e-006" id="9" color_r="1" color_g="1" color_b="1" overbright="0" type_file="Data/Custom/FnB/Objects/Simple Shapes/scifipanel/platform.xml">
             <parameters />
         </EnvObject>
     </Group>
@@ -161,16 +161,52 @@
             <parameters />
         </EnvObject>
     </Group>
-    <Group name="Tech Pyramid" t0="22.4011" t1="14.511" t2="6.70359" s0="15" s1="15" s2="15" q0="-0.292352" q1="0" q2="-0.956303" q3="0" euler_x="0" euler_y="-0.593365" euler_z="-3.14159" id="25" version="1">
+    <Group name="Tech Pyramid" t0="22.4011" t1="14.511" t2="6.70359" s0="15" s1="15" s2="15" q0="-0.719291" q1="-3.39746e-006" q2="0.69457" q3="-3.61027e-006" euler_x="3.14158" euler_y="1.53071" euler_z="-3.63191e-006" id="25" version="1">
         <parameters />
-        <EnvObject t0="22.4011" t1="14.6532" t2="6.70358" s0="6.02744" s1="7.35364" s2="6.02742" q0="0" q1="-0.92045" q2="0" q3="0.390682" euler_x="3.14159" euler_y="-0.802659" euler_z="3.14159" id="26" color_r="1" color_g="1" color_b="1" overbright="0" type_file="Data/Custom/FnB/Objects/Simple Shapes/scifihex/pyramid.xml">
+        <EnvObject t0="22.4011" t1="14.6532" t2="6.7036" s0="6.02744" s1="7.35364" s2="6.02742" q0="-3.8147e-006" q1="0.77148" q2="4.05312e-006" q3="0.636004" euler_x="3.14159" euler_y="1.37725" euler_z="-3.14159" id="26" color_r="1" color_g="1" color_b="1" overbright="0" type_file="Data/Custom/FnB/Objects/Simple Shapes/scifihex/pyramid.xml">
             <parameters />
         </EnvObject>
-        <EnvObject t0="22.4011" t1="7.18485" t2="6.70358" s0="6.39361" s1="1.05051" s2="6.39361" q0="0.390682" q1="0" q2="0.92045" q3="0" euler_x="0" euler_y="-0.802659" euler_z="3.14159" id="27" color_r="1" color_g="1" color_b="1" overbright="0" type_file="Data/Custom/FnB/Objects/Simple Shapes/scifipanel/platform.xml">
+        <EnvObject t0="22.4011" t1="7.18485" t2="6.70359" s0="6.39361" s1="1.05051" s2="6.39361" q0="0.636004" q1="4.00096e-006" q2="-0.77148" q3="3.71039e-006" euler_x="-7.61098e-006" euler_y="1.37725" euler_z="-3.14159" id="27" color_r="1" color_g="1" color_b="1" overbright="0" type_file="Data/Custom/FnB/Objects/Simple Shapes/scifipanel/platform.xml">
             <parameters />
         </EnvObject>
     </Group>
-    <CameraObject t0="-7.34031" t1="15.4571" t2="-24.997" s0="1" s1="1" s2="1" q0="-0.0376905" q1="-0.941065" q2="0.111911" q3="-0.316941" euler_x="-2.90487" euler_y="0.649716" euler_z="-3.14159" id="271">
+    <EnvObject t0="48.1441" t1="0.16999" t2="-7.22111" s0="1" s1="1" s2="1" q0="0" q1="0" q2="0" q3="1" euler_x="0" euler_y="0" euler_z="0" id="28" color_r="1" color_g="1" color_b="1" overbright="0" type_file="Data/Custom/FnB/Objects/Simple Shapes/shinymetal/half_sphere.xml">
+        <parameters />
+    </EnvObject>
+    <EnvObject t0="46.5422" t1="2.37328" t2="-16.3725" s0="1" s1="1" s2="1" q0="0" q1="0" q2="0" q3="1" euler_x="0" euler_y="0" euler_z="0" id="29" color_r="1" color_g="1" color_b="1" overbright="0" type_file="Data/Custom/FnB/Objects/Simple Shapes/shinymetal/half_sphere.xml">
+        <parameters />
+    </EnvObject>
+    <EnvObject t0="39.6508" t1="3.40412" t2="-8.0182" s0="1" s1="1" s2="1" q0="0" q1="0" q2="0" q3="1" euler_x="0" euler_y="0" euler_z="0" id="30" color_r="1" color_g="1" color_b="1" overbright="0" type_file="Data/Custom/FnB/Objects/Simple Shapes/shinymetal/half_sphere.xml">
+        <parameters />
+    </EnvObject>
+    <EnvObject t0="31.7037" t1="7.87991" t2="-20.0655" s0="1" s1="1" s2="1" q0="0" q1="0" q2="0" q3="1" euler_x="0" euler_y="0" euler_z="0" id="31" color_r="1" color_g="1" color_b="1" overbright="0" type_file="Data/Custom/FnB/Objects/Simple Shapes/shinymetal/half_sphere.xml">
+        <parameters />
+    </EnvObject>
+    <EnvObject t0="51.2254" t1="0.265823" t2="-24.5122" s0="1" s1="1" s2="1" q0="0" q1="0" q2="0" q3="1" euler_x="0" euler_y="0" euler_z="0" id="32" color_r="1" color_g="1" color_b="1" overbright="0" type_file="Data/Custom/FnB/Objects/Simple Shapes/shinymetal/half_sphere.xml">
+        <parameters />
+    </EnvObject>
+    <EnvObject t0="41.5479" t1="4.79191" t2="-24.5122" s0="1" s1="1" s2="1" q0="0" q1="0" q2="0" q3="1" euler_x="0" euler_y="0" euler_z="0" id="33" color_r="1" color_g="1" color_b="1" overbright="0" type_file="Data/Custom/FnB/Objects/Simple Shapes/shinymetal/half_sphere.xml">
+        <parameters />
+    </EnvObject>
+    <EnvObject t0="47.4571" t1="-2.61068" t2="-17.0226" s0="1" s1="1" s2="1" q0="0" q1="0" q2="0" q3="1" euler_x="0" euler_y="0" euler_z="0" id="34" color_r="1" color_g="1" color_b="1" overbright="0" type_file="Data/Custom/FnB/Objects/Simple Shapes/shinymetal/half_sphere.xml">
+        <parameters />
+    </EnvObject>
+    <EnvObject t0="42.5477" t1="-1.66294" t2="-21.0197" s0="1" s1="1" s2="1" q0="0" q1="0" q2="0" q3="1" euler_x="0" euler_y="0" euler_z="0" id="35" color_r="1" color_g="1" color_b="1" overbright="0" type_file="Data/Custom/FnB/Objects/Simple Shapes/shinymetal/half_sphere.xml">
+        <parameters />
+    </EnvObject>
+    <Hotspot name="Half Sphere Killer" t0="43.5829" t1="-5.00685" t2="-13.8172" s0="4.39256" s1="1" s2="9.05195" q0="0" q1="0.158704" q2="0" q3="0.987326" euler_x="0" euler_y="0.318757" euler_z="0" id="36" type_file="Data/Objects/Hotspots/drika_hotspot.xml">
+        <parameters>
+            <parameter name="Debug Current Line" type="int" val="0" />
+            <parameter name="Run in EditorMode" type="int" val="1" />
+            <parameter name="Script Data" type="string" val='{&quot;functions&quot;:[{&quot;external_hotspot&quot;:false,&quot;function&quot;:8,&quot;hotspot_trigger_type&quot;:0,&quot;identifier&quot;:1,&quot;identifier_type&quot;:4,&quot;reference_string&quot;:&quot;&quot;},{&quot;character_option&quot;:39,&quot;function&quot;:19,&quot;identifier&quot;:1,&quot;identifier_type&quot;:4,&quot;param_type&quot;:7,&quot;value_type_option&quot;:0}]}&#x0A;' />
+            <parameter name="Show UI Grid" type="int" val="1" />
+            <parameter name="Transform Relative" type="int" val="0" />
+            <parameter name="UI Snap Scale" type="int" val="20" />
+        </parameters>
+        <Connections />
+        <ConnectionsFrom />
+    </Hotspot>
+    <CameraObject t0="72.7132" t1="22.9044" t2="-6.88777" s0="1" s1="1" s2="1" q0="-0.26749" q1="0.565432" q2="-0.200597" q3="-0.753987" euler_x="0.681832" euler_y="-1.2869" euler_z="0" id="271">
         <parameters />
     </CameraObject>
 </ActorObjects>
