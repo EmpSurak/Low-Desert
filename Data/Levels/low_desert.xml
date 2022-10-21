@@ -45,7 +45,7 @@
     <RayToSun r0="-0.018092" r1="0.749923" r2="0.661278" />
 </Sky>
 <ActorObjects>
-    <ActorObject t0="-30.6644" t1="-8.08787" t2="4.25916" s0="1" s1="1" s2="1" q0="0" q1="0" q2="0" q3="1" euler_x="0" euler_y="0" euler_z="0" id="1" type_file="Data/Objects/characters/rabbits/male_rabbit_3_actor.xml" is_player="1">
+    <ActorObject name="Surak 2" t0="-30.6644" t1="-8.08787" t2="4.25916" s0="1" s1="1" s2="1" q0="0" q1="0" q2="0" q3="1" euler_x="0" euler_y="0" euler_z="0" id="1" type_file="Data/Objects/characters/rabbits/male_rabbit_3_actor.xml" is_player="0">
         <parameters>
             <parameter name="Aggression" type="float" val="0.5" />
             <parameter name="Attack Damage" type="float" val="1" />
@@ -113,12 +113,12 @@
             <parameters />
         </EnvObject>
     </Group>
-    <Group name="Upside Tech Pyramid" t0="22.4011" t1="-8.86504" t2="6.70358" s0="15" s1="15" s2="15" q0="2.71201e-005" q1="-0.9298" q2="-2.63392e-005" q3="0.366401" euler_x="3.1415" euler_y="-0.749617" euler_z="-3.1415" id="10" version="1">
+    <Group name="Upside Tech Pyramid" t0="22.4011" t1="-8.86504" t2="6.70358" s0="15" s1="15" s2="15" q0="-2.15173e-005" q1="0.81854" q2="3.36319e-005" q3="-0.573319" euler_x="3.14136" euler_y="-1.21846" euler_z="-3.14138" id="10" version="1">
         <parameters />
-        <EnvObject t0="22.4011" t1="-9.00722" t2="6.70357" s0="6.02744" s1="7.35364" s2="6.02742" q0="0.274606" q1="-2.86326e-005" q2="0.957163" q3="-2.43485e-005" euler_x="-8.02943e-005" euler_y="-0.55352" euler_z="-3.14152" id="8" color_r="1" color_g="1" color_b="1" overbright="0" type_file="Data/Custom/FnB/Objects/Simple Shapes/scifihex/pyramid.xml">
+        <EnvObject t0="22.4011" t1="-9.00722" t2="6.70357" s0="6.02744" s1="7.35364" s2="6.02742" q0="-0.489818" q1="3.52897e-005" q2="-0.865456" q3="1.80826e-005" euler_x="-0.000151489" euler_y="-1.01188" euler_z="-3.14146" id="8" color_r="1" color_g="1" color_b="1" overbright="0" type_file="Data/Custom/FnB/Objects/Simple Shapes/scifihex/pyramid.xml">
             <parameters />
         </EnvObject>
-        <EnvObject t0="22.4009" t1="-1.5389" t2="6.70408" s0="6.39361" s1="1.05051" s2="6.39361" q0="-2.43783e-005" q1="0.957164" q2="2.88486e-005" q3="-0.274605" euler_x="3.14151" euler_y="-0.553518" euler_z="-3.14152" id="9" color_r="1" color_g="1" color_b="1" overbright="0" type_file="Data/Custom/FnB/Objects/Simple Shapes/scifipanel/platform.xml">
+        <EnvObject t0="22.401" t1="-1.5389" t2="6.70416" s0="6.39361" s1="1.05051" s2="6.39361" q0="1.80006e-005" q1="-0.865457" q2="-3.54052e-005" q3="0.489818" euler_x="3.14143" euler_y="-1.01188" euler_z="-3.14146" id="9" color_r="1" color_g="1" color_b="1" overbright="0" type_file="Data/Custom/FnB/Objects/Simple Shapes/scifipanel/platform.xml">
             <parameters />
         </EnvObject>
     </Group>
@@ -161,12 +161,12 @@
             <parameters />
         </EnvObject>
     </Group>
-    <Group name="Tech Pyramid" t0="22.4011" t1="14.511" t2="6.70359" s0="15" s1="15" s2="15" q0="0.0349563" q1="1.80602e-005" q2="-0.998761" q3="3.58159e-005" euler_x="-3.36539e-005" euler_y="0.0698829" euler_z="-3.14152" id="25" version="1">
+    <Group name="Tech Pyramid" t0="22.4011" t1="14.511" t2="6.70359" s0="15" s1="15" s2="15" q0="-0.267139" q1="-8.22544e-006" q2="0.962968" q3="-4.22923e-005" euler_x="7.8787e-006" euler_y="0.540417" euler_z="-3.1415" id="25" version="1">
         <parameters />
-        <EnvObject t0="22.4011" t1="14.6532" t2="6.7036" s0="6.02744" s1="7.35364" s2="6.02742" q0="3.6478e-005" q1="-0.992573" q2="-1.49012e-005" q3="0.0780332" euler_x="3.14156" euler_y="-0.155534" euler_z="-3.14152" id="26" color_r="1" color_g="1" color_b="1" overbright="0" type_file="Data/Custom/FnB/Objects/Simple Shapes/scifihex/pyramid.xml">
+        <EnvObject t0="22.4011" t1="14.6532" t2="6.7036" s0="6.02744" s1="7.35364" s2="6.02742" q0="-4.19617e-005" q1="0.982031" q2="4.64916e-006" q3="0.155626" euler_x="-3.14159" euler_y="0.310631" euler_z="-3.14151" id="26" color_r="1" color_g="1" color_b="1" overbright="0" type_file="Data/Custom/FnB/Objects/Simple Shapes/scifihex/pyramid.xml">
             <parameters />
         </EnvObject>
-        <EnvObject t0="22.4016" t1="7.18485" t2="6.70337" s0="6.39361" s1="1.05051" s2="6.39361" q0="0.0780332" q1="-1.48849e-005" q2="0.992573" q3="-3.64557e-005" euler_x="-3.56726e-005" euler_y="-0.155534" euler_z="-3.14152" id="27" color_r="1" color_g="1" color_b="1" overbright="0" type_file="Data/Custom/FnB/Objects/Simple Shapes/scifipanel/platform.xml">
+        <EnvObject t0="22.4017" t1="7.18485" t2="6.70357" s0="6.39361" s1="1.05051" s2="6.39361" q0="0.155626" q1="4.6324e-006" q2="-0.982031" q3="4.19542e-005" euler_x="4.1616e-006" euler_y="0.310631" euler_z="-3.14151" id="27" color_r="1" color_g="1" color_b="1" overbright="0" type_file="Data/Custom/FnB/Objects/Simple Shapes/scifipanel/platform.xml">
             <parameters />
         </EnvObject>
     </Group>
@@ -251,12 +251,12 @@
             <parameter name="Owner" type="int" val="43" />
         </parameters>
     </EnvObject>
-    <Group name="Glass Sphere" t0="22.7504" t1="1" t2="8.28937" s0="4.01" s1="4.12267" s2="4.01" q0="0" q1="0" q2="0" q3="1" euler_x="0" euler_y="0" euler_z="0" id="47" version="1">
+    <Group name="Glass Sphere" t0="23.6191" t1="1" t2="9.03173" s0="4.01" s1="4.12267" s2="4.01" q0="0" q1="0" q2="0" q3="1" euler_x="0" euler_y="0" euler_z="0" id="47" version="1">
         <parameters />
-        <EnvObject t0="22.7504" t1="1.19038" t2="8.28937" s0="2.00004" s1="2.00004" s2="2.00004" q0="0" q1="0" q2="0" q3="1" euler_x="0" euler_y="0" euler_z="0" id="42" color_r="0.00392157" color_g="0.0021684" color_b="0.0021684" overbright="0" type_file="Data/Custom/FnB/Objects/Simple Shapes/glass/sphere.xml">
+        <EnvObject t0="23.6191" t1="1.19038" t2="9.03173" s0="2.00004" s1="2.00004" s2="2.00004" q0="0" q1="0" q2="0" q3="1" euler_x="0" euler_y="0" euler_z="0" id="42" color_r="0.00392157" color_g="0.0021684" color_b="0.0021684" overbright="0" type_file="Data/Custom/FnB/Objects/Simple Shapes/glass/sphere.xml">
             <parameters />
         </EnvObject>
-        <Hotspot t0="22.7504" t1="0.943666" t2="8.28937" s0="1" s1="1" s2="1" q0="0" q1="0" q2="0" q3="1" euler_x="0" euler_y="0" euler_z="0" id="46" type_file="Data/Objects/Hotspots/drika_hotspot.xml">
+        <Hotspot t0="23.6191" t1="0.943666" t2="9.03173" s0="1" s1="1" s2="1" q0="0" q1="0" q2="0" q3="1" euler_x="0" euler_y="0" euler_z="0" id="46" type_file="Data/Objects/Hotspots/drika_hotspot.xml">
             <parameters>
                 <parameter name="Debug Current Line" type="int" val="0" />
                 <parameter name="Run in EditorMode" type="int" val="1" />
@@ -281,13 +281,102 @@
             <parameters />
         </EnvObject>
     </Group>
+    <ActorObject name="Surak" t0="29.7251" t1="72.9879" t2="-48.1164" s0="1" s1="1" s2="1" q0="0" q1="0" q2="0" q3="1" euler_x="0" euler_y="0" euler_z="0" id="51" type_file="Data/Objects/characters/rabbits/male_rabbit_3_actor.xml" is_player="1">
+        <parameters>
+            <parameter name="Aggression" type="float" val="0.5" />
+            <parameter name="Attack Damage" type="float" val="1" />
+            <parameter name="Attack Knockback" type="float" val="1" />
+            <parameter name="Attack Speed" type="float" val="1" />
+            <parameter name="Block Follow-up" type="float" val="0.5" />
+            <parameter name="Block Skill" type="float" val="0.5" />
+            <parameter name="Cannot Be Disarmed" type="int" val="0" />
+            <parameter name="Character Scale" type="float" val="1" />
+            <parameter name="Damage Resistance" type="float" val="1" />
+            <parameter name="Ear Size" type="float" val="1" />
+            <parameter name="Fall Damage Multiplier" type="float" val="1" />
+            <parameter name="Fat" type="float" val="0.5" />
+            <parameter name="Fear - Afraid At Health Level" type="float" val="0" />
+            <parameter name="Fear - Always Afraid On Sight" type="int" val="0" />
+            <parameter name="Fear - Causes Fear On Sight" type="int" val="0" />
+            <parameter name="Fear - Never Afraid On Sight" type="int" val="0" />
+            <parameter name="Focus FOV distance" type="float" val="100" />
+            <parameter name="Focus FOV horizontal" type="float" val="0.62834" />
+            <parameter name="Focus FOV vertical" type="float" val="0.62834" />
+            <parameter name="Ground Aggression" type="float" val="0.5" />
+            <parameter name="Knockout Shield" type="int" val="0" />
+            <parameter name="Left handed" type="int" val="0" />
+            <parameter name="Movement Speed" type="float" val="1" />
+            <parameter name="Muscle" type="float" val="0.5" />
+            <parameter name="No Look Around" type="int" val="0" />
+            <parameter name="Peripheral FOV distance" type="float" val="4" />
+            <parameter name="Peripheral FOV horizontal" type="float" val="1.41376" />
+            <parameter name="Peripheral FOV vertical" type="float" val="1.41376" />
+            <parameter name="Species" type="string" val="rabbit" />
+            <parameter name="Static" type="int" val="0" />
+            <parameter name="Stick To Nav Mesh" type="int" val="0" />
+            <parameter name="Teams" type="string" val="cat" />
+            <parameter name="Throw Counter Probability" type="float" val="0.4" />
+            <parameter name="Throw Trainer" type="int" val="0" />
+            <parameter name="Weapon Catch Skill" type="float" val="1" />
+            <parameter name="Wearing Metal Armor" type="int" val="0" />
+        </parameters>
+        <Connections>
+            <Connection id="51" />
+        </Connections>
+        <ItemConnections />
+        <Palette>
+            <Color label="Fur" channel="0" red="1" green="1" blue="1" />
+            <Color label="Shirt" channel="1" red="1" green="1" blue="1" />
+            <Color label="Pants" channel="2" red="1" green="1" blue="1" />
+            <Color label="Spots" channel="3" red="1" green="1" blue="1" />
+        </Palette>
+    </ActorObject>
     <Group t0="35.5" t1="71.2136" t2="-41.5" s0="21" s1="1.55859" s2="21" q0="0" q1="0" q2="0" q3="1" euler_x="0" euler_y="0" euler_z="0" id="54" version="1">
         <parameters />
         <EnvObject t0="35.5" t1="71.2136" t2="-41.5" s0="2.257" s1="1.43729" s2="2.25399" q0="0" q1="0" q2="0" q3="1" euler_x="0" euler_y="0" euler_z="0" id="55" color_r="0.403922" color_g="0.446566" color_b="1" overbright="0" type_file="Data/Custom/FnB/Objects/Simple Shapes/scifihex/ring.xml">
             <parameters />
         </EnvObject>
     </Group>
-    <CameraObject t0="92.3451" t1="69.3108" t2="-34.3763" s0="1" s1="1" s2="1" q0="0.137522" q1="-0.665043" q2="0.126489" q3="0.723053" euler_x="0.375902" euler_y="-1.48726" euler_z="0" id="271">
+    <Group t0="38.0561" t1="72.3449" t2="-41.4274" s0="23.6319" s1="20.0614" s2="28.7389" q0="0" q1="0" q2="0" q3="1" euler_x="0" euler_y="0" euler_z="0" id="57" version="1">
+        <parameters />
+        <Hotspot t0="36.0669" t1="72.3449" t2="-29.0629" s0="4.91087" s1="5.01285" s2="1" q0="0" q1="0" q2="0" q3="1" euler_x="0" euler_y="0" euler_z="0" id="60" type_file="Data/Objects/Hotspots/drika_hotspot.xml">
+            <parameters>
+                <parameter name="Debug Current Line" type="int" val="0" />
+                <parameter name="Run in EditorMode" type="int" val="1" />
+                <parameter name="Script Data" type="string" val='{&quot;functions&quot;:[{&quot;external_hotspot&quot;:false,&quot;function&quot;:8,&quot;hotspot_trigger_type&quot;:0,&quot;identifier_type&quot;:10,&quot;reference_string&quot;:&quot;&quot;},{&quot;character_option&quot;:42,&quot;function&quot;:19,&quot;identifier&quot;:&quot;Surak&quot;,&quot;identifier_type&quot;:3,&quot;param_type&quot;:7,&quot;recovery_time&quot;:3,&quot;roll_recovery_time&quot;:1,&quot;value_type_option&quot;:0},{&quot;function&quot;:7,&quot;line&quot;:0}]}&#x0A;' />
+                <parameter name="Show UI Grid" type="int" val="1" />
+                <parameter name="Transform Relative" type="int" val="0" />
+                <parameter name="UI Snap Scale" type="int" val="20" />
+            </parameters>
+            <Connections />
+            <ConnectionsFrom />
+        </Hotspot>
+        <Hotspot t0="36.0669" t1="72.3449" t2="-53.5943" s0="4.91087" s1="5.01285" s2="1" q0="0" q1="0" q2="0" q3="1" euler_x="0" euler_y="0" euler_z="0" id="61" type_file="Data/Objects/Hotspots/drika_hotspot.xml">
+            <parameters>
+                <parameter name="Debug Current Line" type="int" val="0" />
+                <parameter name="Run in EditorMode" type="int" val="1" />
+                <parameter name="Script Data" type="string" val='{&quot;functions&quot;:[{&quot;external_hotspot&quot;:false,&quot;function&quot;:8,&quot;hotspot_trigger_type&quot;:0,&quot;identifier_type&quot;:10,&quot;reference_string&quot;:&quot;&quot;},{&quot;character_option&quot;:42,&quot;function&quot;:19,&quot;identifier&quot;:&quot;Surak&quot;,&quot;identifier_type&quot;:3,&quot;param_type&quot;:7,&quot;recovery_time&quot;:3,&quot;roll_recovery_time&quot;:1,&quot;value_type_option&quot;:0},{&quot;function&quot;:7,&quot;line&quot;:0}]}&#x0A;' />
+                <parameter name="Show UI Grid" type="int" val="1" />
+                <parameter name="Transform Relative" type="int" val="0" />
+                <parameter name="UI Snap Scale" type="int" val="20" />
+            </parameters>
+            <Connections />
+            <ConnectionsFrom />
+        </Hotspot>
+        <Hotspot t0="47.867" t1="72.3449" t2="-41.4532" s0="7.16932" s1="5.01285" s2="1" q0="0" q1="-0.707107" q2="0" q3="0.707107" euler_x="0" euler_y="-1.57045" euler_z="0" id="62" type_file="Data/Objects/Hotspots/drika_hotspot.xml">
+            <parameters>
+                <parameter name="Debug Current Line" type="int" val="0" />
+                <parameter name="Run in EditorMode" type="int" val="1" />
+                <parameter name="Script Data" type="string" val='{&quot;functions&quot;:[{&quot;external_hotspot&quot;:false,&quot;function&quot;:8,&quot;hotspot_trigger_type&quot;:0,&quot;identifier_type&quot;:10,&quot;reference_string&quot;:&quot;&quot;},{&quot;character_option&quot;:42,&quot;function&quot;:19,&quot;identifier&quot;:&quot;Surak&quot;,&quot;identifier_type&quot;:3,&quot;param_type&quot;:7,&quot;recovery_time&quot;:3,&quot;roll_recovery_time&quot;:1,&quot;value_type_option&quot;:0},{&quot;function&quot;:7,&quot;line&quot;:0}]}&#x0A;' />
+                <parameter name="Show UI Grid" type="int" val="1" />
+                <parameter name="Transform Relative" type="int" val="0" />
+                <parameter name="UI Snap Scale" type="int" val="20" />
+            </parameters>
+            <Connections />
+            <ConnectionsFrom />
+        </Hotspot>
+    </Group>
+    <CameraObject t0="10.3222" t1="96.9159" t2="-55.7479" s0="1" s1="1" s2="1" q0="-0.179305" q1="-0.806733" q2="0.306078" q3="-0.472596" euler_x="-2.41634" euler_y="1.05985" euler_z="-3.14159" id="271">
         <parameters />
     </CameraObject>
 </ActorObjects>
