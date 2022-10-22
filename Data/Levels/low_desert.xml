@@ -113,12 +113,12 @@
             <parameters />
         </EnvObject>
     </Group>
-    <Group name="Upside Tech Pyramid" t0="22.4011" t1="-8.86504" t2="6.70358" s0="15" s1="15" s2="15" q0="-3.90857e-005" q1="0.987053" q2="9.31707e-006" q3="0.15619" euler_x="3.14159" euler_y="0.313442" euler_z="-3.14151" id="10" version="1">
+    <Group name="Upside Tech Pyramid" t0="22.4011" t1="-8.86504" t2="6.70358" s0="15" s1="15" s2="15" q0="3.98159e-005" q1="-0.960665" q2="-4.57955e-006" q3="-0.275319" euler_x="-3.14158" euler_y="0.557397" euler_z="-3.14151" id="10" version="1">
         <parameters />
-        <EnvObject t0="22.4011" t1="-9.00722" t2="6.70357" s0="6.02744" s1="7.35364" s2="6.02742" q0="0.24852" q1="1.28895e-005" q2="-0.961543" q3="3.77148e-005" euler_x="-6.89335e-006" euler_y="0.498291" euler_z="-3.14151" id="8" color_r="1" color_g="1" color_b="1" overbright="0" type_file="Data/Custom/FnB/Objects/Simple Shapes/scifihex/pyramid.xml">
+        <EnvObject t0="22.4011" t1="-9.00722" t2="6.70357" s0="6.02744" s1="7.35364" s2="6.02742" q0="-0.363853" q1="-8.28318e-006" q2="0.924093" q3="-3.88771e-005" euler_x="1.76576e-005" euler_y="0.737538" euler_z="-3.1415" id="8" color_r="1" color_g="1" color_b="1" overbright="0" type_file="Data/Custom/FnB/Objects/Simple Shapes/scifihex/pyramid.xml">
             <parameters />
         </EnvObject>
-        <EnvObject t0="22.4005" t1="-1.5389" t2="6.70363" s0="6.39361" s1="1.05051" s2="6.39361" q0="3.77893e-005" q1="-0.961544" q2="-1.3113e-005" q3="-0.248521" euler_x="3.14159" euler_y="0.498293" euler_z="-3.14151" id="9" color_r="1" color_g="1" color_b="1" overbright="0" type_file="Data/Custom/FnB/Objects/Simple Shapes/scifipanel/platform.xml">
+        <EnvObject t0="22.4005" t1="-1.5389" t2="6.70349" s0="6.39361" s1="1.05051" s2="6.39361" q0="-3.90112e-005" q1="0.924094" q2="8.58307e-006" q3="0.363854" euler_x="-3.14157" euler_y="0.737541" euler_z="-3.1415" id="9" color_r="1" color_g="1" color_b="1" overbright="0" type_file="Data/Custom/FnB/Objects/Simple Shapes/scifipanel/platform.xml">
             <parameters />
         </EnvObject>
     </Group>
@@ -161,12 +161,12 @@
             <parameters />
         </EnvObject>
     </Group>
-    <Group name="Tech Pyramid" t0="22.4011" t1="14.511" t2="6.70359" s0="15" s1="15" s2="15" q0="0.476762" q1="-3.66569e-005" q2="0.878258" q3="-2.58419e-005" euler_x="-0.000163238" euler_y="-0.992582" euler_z="-3.14144" id="25" version="1">
+    <Group name="Tech Pyramid" t0="22.4011" t1="14.511" t2="6.70359" s0="15" s1="15" s2="15" q0="-0.580245" q1="3.91603e-005" q2="-0.813613" q3="2.07415e-005" euler_x="-0.000268782" euler_y="-1.23512" euler_z="-3.14135" id="25" version="1">
         <parameters />
-        <EnvObject t0="22.4011" t1="14.6532" t2="6.7036" s0="6.02744" s1="7.35364" s2="6.02742" q0="-2.8342e-005" q1="0.813422" q2="3.3617e-005" q3="-0.569458" euler_x="3.14132" euler_y="-1.18479" euler_z="-3.14133" id="26" color_r="1" color_g="1" color_b="1" overbright="0" type_file="Data/Custom/FnB/Objects/Simple Shapes/scifihex/pyramid.xml">
+        <EnvObject t0="22.4011" t1="14.6532" t2="6.7036" s0="6.02744" s1="7.35364" s2="6.02742" q0="2.35438e-005" q1="-0.737963" q2="-3.64184e-005" q3="0.664349" euler_x="3.14064" euler_y="-1.37314" euler_z="-3.14066" id="26" color_r="1" color_g="1" color_b="1" overbright="0" type_file="Data/Custom/FnB/Objects/Simple Shapes/scifihex/pyramid.xml">
             <parameters />
         </EnvObject>
-        <EnvObject t0="22.4012" t1="7.18485" t2="6.70297" s0="6.39361" s1="1.05051" s2="6.39361" q0="-0.569459" q1="3.3658e-005" q2="-0.813423" q3="2.82153e-005" euler_x="-0.000247249" euler_y="-1.1848" euler_z="-3.14133" id="27" color_r="1" color_g="1" color_b="1" overbright="0" type_file="Data/Custom/FnB/Objects/Simple Shapes/scifipanel/platform.xml">
+        <EnvObject t0="22.401" t1="7.18485" t2="6.70298" s0="6.39361" s1="1.05051" s2="6.39361" q0="0.66435" q1="-3.65302e-005" q2="0.737963" q3="-2.34246e-005" euler_x="-0.00072511" euler_y="-1.37315" euler_z="-3.14066" id="27" color_r="1" color_g="1" color_b="1" overbright="0" type_file="Data/Custom/FnB/Objects/Simple Shapes/scifipanel/platform.xml">
             <parameters />
         </EnvObject>
     </Group>
@@ -251,12 +251,12 @@
             <parameter name="Owner" type="int" val="43" />
         </parameters>
     </EnvObject>
-    <Group name="Glass Sphere" t0="23.5428" t1="1" t2="8.96662" s0="4.01" s1="4.12267" s2="4.01" q0="0" q1="0" q2="0" q3="1" euler_x="0" euler_y="0" euler_z="0" id="47" version="1">
+    <Group name="Glass Sphere" t0="20.2205" t1="1" t2="6.12739" s0="4.01" s1="4.12267" s2="4.01" q0="0" q1="0" q2="0" q3="1" euler_x="0" euler_y="0" euler_z="0" id="47" version="1">
         <parameters />
-        <EnvObject t0="23.5276" t1="1.19038" t2="8.95359" s0="2.00004" s1="2.00004" s2="2.00004" q0="0" q1="0" q2="0" q3="1" euler_x="0" euler_y="0" euler_z="0" id="42" color_r="0.00392157" color_g="0.0021684" color_b="0.0021684" overbright="0" type_file="Data/Custom/FnB/Objects/Simple Shapes/glass/sphere.xml">
+        <EnvObject t0="20.2052" t1="1.19038" t2="6.11437" s0="2.00004" s1="2.00004" s2="2.00004" q0="0" q1="0" q2="0" q3="1" euler_x="0" euler_y="0" euler_z="0" id="42" color_r="0.00392157" color_g="0.0021684" color_b="0.0021684" overbright="0" type_file="Data/Custom/FnB/Objects/Simple Shapes/glass/sphere.xml">
             <parameters />
         </EnvObject>
-        <Hotspot t0="23.5276" t1="0.943666" t2="8.95359" s0="1" s1="1" s2="1" q0="0" q1="0" q2="0" q3="1" euler_x="0" euler_y="0" euler_z="0" id="46" type_file="Data/Objects/Hotspots/drika_hotspot.xml">
+        <Hotspot t0="20.2052" t1="0.943666" t2="6.11437" s0="1" s1="1" s2="1" q0="0" q1="0" q2="0" q3="1" euler_x="0" euler_y="0" euler_z="0" id="46" type_file="Data/Objects/Hotspots/drika_hotspot.xml">
             <parameters>
                 <parameter name="Debug Current Line" type="int" val="0" />
                 <parameter name="Run in EditorMode" type="int" val="1" />
@@ -343,7 +343,7 @@
             <parameters>
                 <parameter name="Debug Current Line" type="int" val="0" />
                 <parameter name="Run in EditorMode" type="int" val="1" />
-                <parameter name="Script Data" type="string" val='{&quot;functions&quot;:[{&quot;external_hotspot&quot;:false,&quot;function&quot;:8,&quot;hotspot_trigger_type&quot;:0,&quot;identifier_type&quot;:10,&quot;reference_string&quot;:&quot;&quot;},{&quot;character_option&quot;:42,&quot;function&quot;:19,&quot;identifier&quot;:&quot;Surak&quot;,&quot;identifier_type&quot;:3,&quot;param_type&quot;:7,&quot;recovery_time&quot;:3,&quot;roll_recovery_time&quot;:1,&quot;value_type_option&quot;:0},{&quot;function&quot;:7,&quot;line&quot;:0}]}&#x0A;' />
+                <parameter name="Script Data" type="string" val='{&quot;functions&quot;:[{&quot;external_hotspot&quot;:false,&quot;function&quot;:8,&quot;hotspot_trigger_type&quot;:0,&quot;identifier_type&quot;:10,&quot;reference_string&quot;:&quot;&quot;},{&quot;character_option&quot;:39,&quot;function&quot;:19,&quot;identifier&quot;:&quot;Surak&quot;,&quot;identifier_type&quot;:3,&quot;param_type&quot;:7,&quot;value_type_option&quot;:0},{&quot;function&quot;:7,&quot;line&quot;:0}]}&#x0A;' />
                 <parameter name="Show UI Grid" type="int" val="1" />
                 <parameter name="Transform Relative" type="int" val="0" />
                 <parameter name="UI Snap Scale" type="int" val="20" />
@@ -355,7 +355,7 @@
             <parameters>
                 <parameter name="Debug Current Line" type="int" val="0" />
                 <parameter name="Run in EditorMode" type="int" val="1" />
-                <parameter name="Script Data" type="string" val='{&quot;functions&quot;:[{&quot;external_hotspot&quot;:false,&quot;function&quot;:8,&quot;hotspot_trigger_type&quot;:0,&quot;identifier_type&quot;:10,&quot;reference_string&quot;:&quot;&quot;},{&quot;character_option&quot;:42,&quot;function&quot;:19,&quot;identifier&quot;:&quot;Surak&quot;,&quot;identifier_type&quot;:3,&quot;param_type&quot;:7,&quot;recovery_time&quot;:3,&quot;roll_recovery_time&quot;:1,&quot;value_type_option&quot;:0},{&quot;function&quot;:7,&quot;line&quot;:0}]}&#x0A;' />
+                <parameter name="Script Data" type="string" val='{&quot;functions&quot;:[{&quot;external_hotspot&quot;:false,&quot;function&quot;:8,&quot;hotspot_trigger_type&quot;:0,&quot;identifier_type&quot;:10,&quot;reference_string&quot;:&quot;&quot;},{&quot;character_option&quot;:39,&quot;function&quot;:19,&quot;identifier&quot;:&quot;Surak&quot;,&quot;identifier_type&quot;:3,&quot;param_type&quot;:7,&quot;value_type_option&quot;:0},{&quot;function&quot;:7,&quot;line&quot;:0}]}&#x0A;' />
                 <parameter name="Show UI Grid" type="int" val="1" />
                 <parameter name="Transform Relative" type="int" val="0" />
                 <parameter name="UI Snap Scale" type="int" val="20" />
@@ -367,7 +367,7 @@
             <parameters>
                 <parameter name="Debug Current Line" type="int" val="0" />
                 <parameter name="Run in EditorMode" type="int" val="1" />
-                <parameter name="Script Data" type="string" val='{&quot;functions&quot;:[{&quot;external_hotspot&quot;:false,&quot;function&quot;:8,&quot;hotspot_trigger_type&quot;:0,&quot;identifier_type&quot;:10,&quot;reference_string&quot;:&quot;&quot;},{&quot;character_option&quot;:42,&quot;function&quot;:19,&quot;identifier&quot;:&quot;Surak&quot;,&quot;identifier_type&quot;:3,&quot;param_type&quot;:7,&quot;recovery_time&quot;:3,&quot;roll_recovery_time&quot;:1,&quot;value_type_option&quot;:0},{&quot;function&quot;:7,&quot;line&quot;:0}]}&#x0A;' />
+                <parameter name="Script Data" type="string" val='{&quot;functions&quot;:[{&quot;external_hotspot&quot;:false,&quot;function&quot;:8,&quot;hotspot_trigger_type&quot;:0,&quot;identifier_type&quot;:10,&quot;reference_string&quot;:&quot;&quot;},{&quot;character_option&quot;:39,&quot;function&quot;:19,&quot;identifier&quot;:&quot;Surak&quot;,&quot;identifier_type&quot;:3,&quot;param_type&quot;:7,&quot;value_type_option&quot;:0},{&quot;function&quot;:7,&quot;line&quot;:0}]}&#x0A;' />
                 <parameter name="Show UI Grid" type="int" val="1" />
                 <parameter name="Transform Relative" type="int" val="0" />
                 <parameter name="UI Snap Scale" type="int" val="20" />
@@ -394,7 +394,28 @@
     <EnvObject t0="-1.91636" t1="82.086" t2="-41.2141" s0="18.8477" s1="5" s2="10" q0="1" q1="0" q2="0" q3="0" euler_x="3.14159" euler_y="0" euler_z="0" id="69" color_r="0.635294" color_g="0.434324" color_b="0.196817" overbright="0" type_file="Data/Custom/FnB/Objects/Simple Shapes/largeplanks/platform.xml">
         <parameters />
     </EnvObject>
-    <CameraObject t0="44.2225" t1="83.6769" t2="-41.2454" s0="1" s1="1" s2="1" q0="-0.100879" q1="0.724334" q2="-0.108519" q3="-0.67334" euler_x="-2.84417" euler_y="-1.49786" euler_z="-3.14159" id="271">
+    <Group t0="-45.8436" t1="68.0588" t2="-41.1123" s0="5.23108" s1="2.65754" s2="5.23005" q0="0" q1="0" q2="0" q3="1" euler_x="0" euler_y="0" euler_z="0" id="70" version="1">
+        <parameters />
+        <EnvObject t0="-45.8436" t1="67.9369" t2="-41.1123" s0="2" s1="2" s2="2" q0="0" q1="0" q2="0" q3="1" euler_x="0" euler_y="0" euler_z="0" id="71" color_r="1" color_g="1" color_b="1" overbright="0" type_file="Data/Custom/FnB/Objects/Simple Shapes/scifipanel/half_sphere.xml">
+            <parameters />
+        </EnvObject>
+        <EnvObject t0="-45.8433" t1="69.1529" t2="-41.1125" s0="2" s1="2" s2="2" q0="0" q1="0" q2="0" q3="1" euler_x="0" euler_y="0" euler_z="0" id="72" color_r="0.635294" color_g="0.434324" color_b="0.196817" overbright="0" type_file="Data/Custom/FnB/Objects/Simple Shapes/hardwood/disk.xml">
+            <parameters />
+        </EnvObject>
+    </Group>
+    <Hotspot t0="-17.5594" t1="63.6062" t2="-41.0811" s0="21.9223" s1="1.08932" s2="2.34103" q0="0" q1="0" q2="0" q3="1" euler_x="0" euler_y="0" euler_z="0" id="73" type_file="Data/Objects/Hotspots/drika_hotspot.xml">
+        <parameters>
+            <parameter name="Debug Current Line" type="int" val="0" />
+            <parameter name="Run in EditorMode" type="int" val="1" />
+            <parameter name="Script Data" type="string" val='{&quot;functions&quot;:[{&quot;external_hotspot&quot;:false,&quot;function&quot;:8,&quot;hotspot_trigger_type&quot;:0,&quot;identifier_type&quot;:10,&quot;reference_string&quot;:&quot;&quot;},{&quot;character_option&quot;:39,&quot;function&quot;:19,&quot;identifier&quot;:&quot;Surak&quot;,&quot;identifier_type&quot;:3,&quot;param_type&quot;:7,&quot;value_type_option&quot;:0},{&quot;function&quot;:7,&quot;line&quot;:0}]}&#x0A;' />
+            <parameter name="Show UI Grid" type="int" val="1" />
+            <parameter name="Transform Relative" type="int" val="0" />
+            <parameter name="UI Snap Scale" type="int" val="20" />
+        </parameters>
+        <Connections />
+        <ConnectionsFrom />
+    </Hotspot>
+    <CameraObject t0="-58.4013" t1="100.214" t2="-47.6817" s0="1" s1="1" s2="1" q0="-0.23229" q1="-0.764174" q2="0.381397" q3="-0.46542" euler_x="-2.21574" euler_y="1.09409" euler_z="-3.14159" id="271">
         <parameters />
     </CameraObject>
 </ActorObjects>
