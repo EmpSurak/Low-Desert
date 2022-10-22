@@ -113,12 +113,12 @@
             <parameters />
         </EnvObject>
     </Group>
-    <Group name="Upside Tech Pyramid" t0="22.4011" t1="-8.86504" t2="6.70358" s0="15" s1="15" s2="15" q0="3.98159e-005" q1="-0.960665" q2="-4.57955e-006" q3="-0.275319" euler_x="-3.14158" euler_y="0.557397" euler_z="-3.14151" id="10" version="1">
+    <Group name="Upside Tech Pyramid" t0="22.4011" t1="-8.86504" t2="6.70358" s0="15" s1="15" s2="15" q0="-3.90112e-005" q1="0.987027" q2="8.38796e-006" q3="0.15618" euler_x="3.14159" euler_y="0.313413" euler_z="-3.14151" id="10" version="1">
         <parameters />
-        <EnvObject t0="22.4011" t1="-9.00722" t2="6.70357" s0="6.02744" s1="7.35364" s2="6.02742" q0="-0.363853" q1="-8.28318e-006" q2="0.924093" q3="-3.88771e-005" euler_x="1.76576e-005" euler_y="0.737538" euler_z="-3.1415" id="8" color_r="1" color_g="1" color_b="1" overbright="0" type_file="Data/Custom/FnB/Objects/Simple Shapes/scifihex/pyramid.xml">
+        <EnvObject t0="22.4011" t1="-9.00722" t2="6.70357" s0="6.02744" s1="7.35364" s2="6.02742" q0="0.248164" q1="1.19647e-005" q2="-0.960188" q3="3.77372e-005" euler_x="-4.84324e-006" euler_y="0.496748" euler_z="-3.14151" id="8" color_r="1" color_g="1" color_b="1" overbright="0" type_file="Data/Custom/FnB/Objects/Simple Shapes/scifihex/pyramid.xml">
             <parameters />
         </EnvObject>
-        <EnvObject t0="22.4005" t1="-1.5389" t2="6.70349" s0="6.39361" s1="1.05051" s2="6.39361" q0="-3.90112e-005" q1="0.924094" q2="8.58307e-006" q3="0.363854" euler_x="-3.14157" euler_y="0.737541" euler_z="-3.1415" id="9" color_r="1" color_g="1" color_b="1" overbright="0" type_file="Data/Custom/FnB/Objects/Simple Shapes/scifipanel/platform.xml">
+        <EnvObject t0="22.4005" t1="-1.5389" t2="6.70362" s0="6.39361" s1="1.05051" s2="6.39361" q0="3.78191e-005" q1="-0.960189" q2="-1.21593e-005" q3="-0.248165" euler_x="3.14159" euler_y="0.496749" euler_z="-3.14151" id="9" color_r="1" color_g="1" color_b="1" overbright="0" type_file="Data/Custom/FnB/Objects/Simple Shapes/scifipanel/platform.xml">
             <parameters />
         </EnvObject>
     </Group>
@@ -161,12 +161,12 @@
             <parameters />
         </EnvObject>
     </Group>
-    <Group name="Tech Pyramid" t0="22.4011" t1="14.511" t2="6.70359" s0="15" s1="15" s2="15" q0="-0.580245" q1="3.91603e-005" q2="-0.813613" q3="2.07415e-005" euler_x="-0.000268782" euler_y="-1.23512" euler_z="-3.14135" id="25" version="1">
+    <Group name="Tech Pyramid" t0="22.4011" t1="14.511" t2="6.70359" s0="15" s1="15" s2="15" q0="0.476748" q1="-3.82662e-005" q2="0.878236" q3="-2.62624e-005" euler_x="-0.000169143" euler_y="-0.992499" euler_z="-3.14144" id="25" version="1">
         <parameters />
-        <EnvObject t0="22.4011" t1="14.6532" t2="6.7036" s0="6.02744" s1="7.35364" s2="6.02742" q0="2.35438e-005" q1="-0.737963" q2="-3.64184e-005" q3="0.664349" euler_x="3.14064" euler_y="-1.37314" euler_z="-3.14066" id="26" color_r="1" color_g="1" color_b="1" overbright="0" type_file="Data/Custom/FnB/Objects/Simple Shapes/scifihex/pyramid.xml">
+        <EnvObject t0="22.4011" t1="14.6532" t2="6.7036" s0="6.02744" s1="7.35364" s2="6.02742" q0="-2.89083e-005" q1="0.812255" q2="3.51667e-005" q3="-0.568639" euler_x="3.14131" euler_y="-1.17779" euler_z="-3.14132" id="26" color_r="1" color_g="1" color_b="1" overbright="0" type_file="Data/Custom/FnB/Objects/Simple Shapes/scifihex/pyramid.xml">
             <parameters />
         </EnvObject>
-        <EnvObject t0="22.401" t1="7.18485" t2="6.70298" s0="6.39361" s1="1.05051" s2="6.39361" q0="0.66435" q1="-3.65302e-005" q2="0.737963" q3="-2.34246e-005" euler_x="-0.00072511" euler_y="-1.37315" euler_z="-3.14066" id="27" color_r="1" color_g="1" color_b="1" overbright="0" type_file="Data/Custom/FnB/Objects/Simple Shapes/scifipanel/platform.xml">
+        <EnvObject t0="22.4012" t1="7.18485" t2="6.70295" s0="6.39361" s1="1.05051" s2="6.39361" q0="-0.56864" q1="3.50848e-005" q2="-0.812256" q3="2.87592e-005" euler_x="-0.000253902" euler_y="-1.17779" euler_z="-3.14132" id="27" color_r="1" color_g="1" color_b="1" overbright="0" type_file="Data/Custom/FnB/Objects/Simple Shapes/scifipanel/platform.xml">
             <parameters />
         </EnvObject>
     </Group>
@@ -251,12 +251,12 @@
             <parameter name="Owner" type="int" val="43" />
         </parameters>
     </EnvObject>
-    <Group name="Glass Sphere" t0="20.2205" t1="1" t2="6.12739" s0="4.01" s1="4.12267" s2="4.01" q0="0" q1="0" q2="0" q3="1" euler_x="0" euler_y="0" euler_z="0" id="47" version="1">
+    <Group name="Glass Sphere" t0="18.3764" t1="1" t2="4.55151" s0="4.01" s1="4.12267" s2="4.01" q0="0" q1="0" q2="0" q3="1" euler_x="0" euler_y="0" euler_z="0" id="47" version="1">
         <parameters />
-        <EnvObject t0="20.2052" t1="1.19038" t2="6.11437" s0="2.00004" s1="2.00004" s2="2.00004" q0="0" q1="0" q2="0" q3="1" euler_x="0" euler_y="0" euler_z="0" id="42" color_r="0.00392157" color_g="0.0021684" color_b="0.0021684" overbright="0" type_file="Data/Custom/FnB/Objects/Simple Shapes/glass/sphere.xml">
+        <EnvObject t0="18.4374" t1="1.19038" t2="4.6036" s0="2.00004" s1="2.00004" s2="2.00004" q0="0" q1="0" q2="0" q3="1" euler_x="0" euler_y="0" euler_z="0" id="42" color_r="0.00392157" color_g="0.0021684" color_b="0.0021684" overbright="0" type_file="Data/Custom/FnB/Objects/Simple Shapes/glass/sphere.xml">
             <parameters />
         </EnvObject>
-        <Hotspot t0="20.2052" t1="0.943666" t2="6.11437" s0="1" s1="1" s2="1" q0="0" q1="0" q2="0" q3="1" euler_x="0" euler_y="0" euler_z="0" id="46" type_file="Data/Objects/Hotspots/drika_hotspot.xml">
+        <Hotspot t0="18.4374" t1="0.943666" t2="4.6036" s0="1" s1="1" s2="1" q0="0" q1="0" q2="0" q3="1" euler_x="0" euler_y="0" euler_z="0" id="46" type_file="Data/Objects/Hotspots/drika_hotspot.xml">
             <parameters>
                 <parameter name="Debug Current Line" type="int" val="0" />
                 <parameter name="Run in EditorMode" type="int" val="1" />
@@ -415,7 +415,52 @@
         <Connections />
         <ConnectionsFrom />
     </Hotspot>
-    <CameraObject t0="-58.4013" t1="100.214" t2="-47.6817" s0="1" s1="1" s2="1" q0="-0.23229" q1="-0.764174" q2="0.381397" q3="-0.46542" euler_x="-2.21574" euler_y="1.09409" euler_z="-3.14159" id="271">
+    <ActorObject t0="-45.9596" t1="70.3826" t2="-41.022" s0="1" s1="1" s2="1" q0="0" q1="0.707107" q2="0" q3="0.707107" euler_x="0" euler_y="1.57045" euler_z="0" id="74" type_file="Data/Objects/IGF_Characters/IGF_WolfActor.xml" is_player="0">
+        <parameters>
+            <parameter name="Aggression" type="float" val="0.5" />
+            <parameter name="Attack Damage" type="float" val="1" />
+            <parameter name="Attack Knockback" type="float" val="1" />
+            <parameter name="Attack Speed" type="float" val="1" />
+            <parameter name="Block Follow-up" type="float" val="0.5" />
+            <parameter name="Block Skill" type="float" val="0.5" />
+            <parameter name="Cannot Be Disarmed" type="int" val="0" />
+            <parameter name="Character Scale" type="float" val="1" />
+            <parameter name="Damage Resistance" type="float" val="1" />
+            <parameter name="Ear Size" type="float" val="1" />
+            <parameter name="Fall Damage Multiplier" type="float" val="1" />
+            <parameter name="Fat" type="float" val="0.5" />
+            <parameter name="Fear - Afraid At Health Level" type="float" val="0" />
+            <parameter name="Fear - Always Afraid On Sight" type="int" val="0" />
+            <parameter name="Fear - Causes Fear On Sight" type="int" val="1" />
+            <parameter name="Fear - Never Afraid On Sight" type="int" val="1" />
+            <parameter name="Focus FOV distance" type="float" val="100" />
+            <parameter name="Focus FOV horizontal" type="float" val="0.62834" />
+            <parameter name="Focus FOV vertical" type="float" val="0.62834" />
+            <parameter name="Ground Aggression" type="float" val="0.5" />
+            <parameter name="Knockout Shield" type="int" val="0" />
+            <parameter name="Left handed" type="int" val="0" />
+            <parameter name="Movement Speed" type="float" val="0" />
+            <parameter name="Muscle" type="float" val="0.5" />
+            <parameter name="No Look Around" type="int" val="0" />
+            <parameter name="Peripheral FOV distance" type="float" val="4" />
+            <parameter name="Peripheral FOV horizontal" type="float" val="1.41376" />
+            <parameter name="Peripheral FOV vertical" type="float" val="1.41376" />
+            <parameter name="Species" type="string" val="wolf" />
+            <parameter name="Static" type="int" val="0" />
+            <parameter name="Stick To Nav Mesh" type="int" val="0" />
+            <parameter name="Teams" type="string" val="wolf" />
+            <parameter name="Throw Counter Probability" type="float" val="0.4" />
+            <parameter name="Throw Trainer" type="int" val="0" />
+            <parameter name="Weapon Catch Skill" type="float" val="1" />
+            <parameter name="Wearing Metal Armor" type="int" val="0" />
+        </parameters>
+        <Connections>
+            <Connection id="74" />
+        </Connections>
+        <ItemConnections />
+        <Palette />
+    </ActorObject>
+    <CameraObject t0="-54.7326" t1="74.8748" t2="-41.0424" s0="1" s1="1" s2="1" q0="0.100123" q1="0.689843" q2="-0.0972287" q3="0.71038" euler_x="0.280039" euler_y="1.54147" euler_z="-4.57286e-006" id="271">
         <parameters />
     </CameraObject>
 </ActorObjects>
@@ -423,4 +468,6 @@
     <SpawnerItem display_name="Male Rabbit Buttons" path="Data/Objects/characters/rabbits/male_rabbit_3_actor.xml" thumbnail_path="Data/UI/spawner/thumbs/Character/Male_rabbit_3_actor.png" />
     <SpawnerItem display_name="Path Point" path="Data/Objects/pathpoint/pathpoint.xml" thumbnail_path="Data/UI/spawner/thumbs/Utility/pathpoint.png" />
     <SpawnerItem display_name="Drika Hotspot" path="Data/Objects/Hotspots/drika_hotspot.xml" thumbnail_path="Data/UI/spawner/thumbs/Utility/empty_placeholder.png" />
+    <SpawnerItem display_name="Alpha Male Wolf" path="Data/Objects/IGF_Characters/IGF_Wolf.xml" thumbnail_path="Data/UI/spawner/thumbs/Object/Alpha Male Wolf.png" />
+    <SpawnerItem display_name="Alpha Male Wolf" path="Data/Objects/IGF_Characters/IGF_WolfActor.xml" thumbnail_path="Data/UI/spawner/thumbs/Character/IGF_wolfActor.png" />
 </RecentItems>
