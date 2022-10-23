@@ -113,12 +113,12 @@
             <parameters />
         </EnvObject>
     </Group>
-    <Group name="Upside Tech Pyramid" t0="22.4011" t1="-8.86504" t2="6.70358" s0="15" s1="15" s2="15" q0="0" q1="0.249966" q2="4.18788e-005" q3="-0.967315" euler_x="2.26087e-005" euler_y="-0.504753" euler_z="-9.22501e-005" id="10" version="1">
+    <Group name="Upside Tech Pyramid" t0="22.4011" t1="-8.86504" t2="6.70358" s0="15" s1="15" s2="15" q0="-1.52588e-005" q1="0.104627" q2="-4.03924e-005" q3="0.993576" euler_x="-3.96417e-005" euler_y="0.209437" euler_z="-8.53269e-005" id="10" version="1">
         <parameters />
-        <EnvObject t0="22.4011" t1="-9.00722" t2="6.70357" s0="6.02744" s1="7.35364" s2="6.02742" q0="-0.922858" q1="4.11347e-005" q2="-0.344834" q3="-4.18164e-006" euler_x="-3.14156" euler_y="-0.689909" euler_z="-9.58292e-005" id="8" color_r="1" color_g="1" color_b="1" overbright="0" type_file="Data/Custom/FnB/Objects/Simple Shapes/scifihex/pyramid.xml">
+        <EnvObject t0="22.4011" t1="-9.00722" t2="6.70357" s0="6.02744" s1="7.35364" s2="6.02742" q0="0.98516" q1="-3.84077e-005" q2="-0.00019937" q3="1.85017e-005" euler_x="3.14155" euler_y="0.000392821" euler_z="-7.56829e-005" id="8" color_r="1" color_g="1" color_b="1" overbright="0" type_file="Data/Custom/FnB/Objects/Simple Shapes/scifihex/pyramid.xml">
             <parameters />
         </EnvObject>
-        <EnvObject t0="22.4017" t1="-1.5389" t2="6.70373" s0="6.39361" s1="1.05051" s2="6.39361" q0="-4.35114e-006" q1="-0.344836" q2="-4.12017e-005" q3="0.922859" euler_x="2.67453e-005" euler_y="-0.689912" euler_z="-9.58385e-005" id="9" color_r="1" color_g="1" color_b="1" overbright="0" type_file="Data/Custom/FnB/Objects/Simple Shapes/scifipanel/platform.xml">
+        <EnvObject t0="22.4017" t1="-1.5389" t2="6.70329" s0="6.39361" s1="1.05051" s2="6.39361" q0="1.86563e-005" q1="-0.000198558" q2="3.84748e-005" q3="-0.985161" euler_x="-3.67741e-005" euler_y="0.000391222" euler_z="-7.58151e-005" id="9" color_r="1" color_g="1" color_b="1" overbright="0" type_file="Data/Custom/FnB/Objects/Simple Shapes/scifipanel/platform.xml">
             <parameters />
         </EnvObject>
     </Group>
@@ -161,12 +161,12 @@
             <parameters />
         </EnvObject>
     </Group>
-    <Group name="Tech Pyramid" t0="22.4011" t1="14.511" t2="6.70359" s0="15" s1="15" s2="15" q0="-0.828327" q1="4.69685e-005" q2="0.558604" q3="-4.44031e-005" euler_x="3.14125" euler_y="1.18213" euler_z="-0.000338948" id="25" version="1">
+    <Group name="Tech Pyramid" t0="22.4011" t1="14.511" t2="6.70359" s0="15" s1="15" s2="15" q0="0.971481" q1="-6.09756e-005" q2="-0.233137" q3="2.47709e-005" euler_x="3.14151" euler_y="0.470102" euler_z="-0.000145881" id="25" version="1">
         <parameters />
-        <EnvObject t0="22.4011" t1="14.6532" t2="6.7036" s0="6.02744" s1="7.35364" s2="6.02742" q0="-3.89218e-005" q1="0.652552" q2="-4.88162e-005" q3="0.737718" euler_x="-0.000816548" euler_y="1.29718" euler_z="-0.000827909" id="26" color_r="1" color_g="1" color_b="1" overbright="0" type_file="Data/Custom/FnB/Objects/Simple Shapes/scifihex/pyramid.xml">
+        <EnvObject t0="22.4011" t1="14.6532" t2="6.7036" s0="6.02744" s1="7.35364" s2="6.02742" q0="1.88351e-005" q1="-0.352865" q2="6.07371e-005" q3="-0.919513" euler_x="-0.000103202" euler_y="0.706174" euler_z="-0.000166437" id="26" color_r="1" color_g="1" color_b="1" overbright="0" type_file="Data/Custom/FnB/Objects/Simple Shapes/scifihex/pyramid.xml">
             <parameters />
         </EnvObject>
-        <EnvObject t0="22.4008" t1="7.18485" t2="6.70449" s0="6.39361" s1="1.05051" s2="6.39361" q0="0.737719" q1="-4.89354e-005" q2="-0.652553" q3="3.87803e-005" euler_x="3.14022" euler_y="1.29719" euler_z="-0.000827866" id="27" color_r="1" color_g="1" color_b="1" overbright="0" type_file="Data/Custom/FnB/Objects/Simple Shapes/scifipanel/platform.xml">
+        <EnvObject t0="22.4003" t1="7.18485" t2="6.70411" s0="6.39361" s1="1.05051" s2="6.39361" q0="-0.919514" q1="6.07669e-005" q2="0.352866" q3="-1.86376e-005" euler_x="3.14148" euler_y="0.706177" euler_z="-0.000166325" id="27" color_r="1" color_g="1" color_b="1" overbright="0" type_file="Data/Custom/FnB/Objects/Simple Shapes/scifipanel/platform.xml">
             <parameters />
         </EnvObject>
     </Group>
@@ -251,12 +251,12 @@
             <parameter name="Owner" type="int" val="43" />
         </parameters>
     </EnvObject>
-    <Group name="Glass Sphere" t0="17.4773" t1="1" t2="3.78311" s0="4.01" s1="4.12267" s2="4.01" q0="0" q1="0" q2="0" q3="1" euler_x="0" euler_y="0" euler_z="0" id="47" version="1">
+    <Group name="Glass Sphere" t0="22.3084" t1="1" t2="7.91168" s0="4.01" s1="4.12267" s2="4.01" q0="0" q1="0" q2="0" q3="1" euler_x="0" euler_y="0" euler_z="0" id="47" version="1">
         <parameters />
-        <EnvObject t0="17.5078" t1="1.19038" t2="3.80915" s0="2.00004" s1="2.00004" s2="2.00004" q0="0" q1="0" q2="0" q3="1" euler_x="0" euler_y="0" euler_z="0" id="42" color_r="0.00392157" color_g="0.0021684" color_b="0.0021684" overbright="0" type_file="Data/Custom/FnB/Objects/Simple Shapes/glass/sphere.xml">
+        <EnvObject t0="22.3389" t1="1.19038" t2="7.93773" s0="2.00004" s1="2.00004" s2="2.00004" q0="0" q1="0" q2="0" q3="1" euler_x="0" euler_y="0" euler_z="0" id="42" color_r="0.00392157" color_g="0.0021684" color_b="0.0021684" overbright="0" type_file="Data/Custom/FnB/Objects/Simple Shapes/glass/sphere.xml">
             <parameters />
         </EnvObject>
-        <Hotspot t0="17.5078" t1="0.943666" t2="3.80915" s0="1" s1="1" s2="1" q0="0" q1="0" q2="0" q3="1" euler_x="0" euler_y="0" euler_z="0" id="46" type_file="Data/Objects/Hotspots/drika_hotspot.xml">
+        <Hotspot t0="22.3389" t1="0.943666" t2="7.93773" s0="1" s1="1" s2="1" q0="0" q1="0" q2="0" q3="1" euler_x="0" euler_y="0" euler_z="0" id="46" type_file="Data/Objects/Hotspots/drika_hotspot.xml">
             <parameters>
                 <parameter name="Debug Current Line" type="int" val="0" />
                 <parameter name="Run in EditorMode" type="int" val="1" />
@@ -755,7 +755,19 @@
     <EnvObject t0="-38.4783" t1="1044.27" t2="59.8829" s0="1" s1="1" s2="1" q0="0" q1="0.704091" q2="0" q3="0.710109" euler_x="0" euler_y="1.56229" euler_z="0" id="147" color_r="1" color_g="1" color_b="1" overbright="0" type_file="Data/Prototypes/MagmaArena/MagmaArenaFlag_Red1.xml">
         <parameters />
     </EnvObject>
-    <CameraObject t0="-8.21001" t1="1057.16" t2="58.9387" s0="1" s1="1" s2="1" q0="-0.262043" q1="0.401833" q2="-0.121169" q3="-0.869012" euler_x="0.585739" euler_y="-0.866239" euler_z="0" id="271">
+    <Hotspot t0="-32.8979" t1="993.222" t2="46.9095" s0="51.5054" s1="0.470863" s2="55.7316" q0="0" q1="-0.00334907" q2="0" q3="0.999994" euler_x="0" euler_y="-0.00669814" euler_z="0" id="151" type_file="Data/Objects/Hotspots/drika_hotspot.xml">
+        <parameters>
+            <parameter name="Debug Current Line" type="int" val="0" />
+            <parameter name="Run in EditorMode" type="int" val="1" />
+            <parameter name="Script Data" type="string" val='{&quot;functions&quot;:[{&quot;external_hotspot&quot;:false,&quot;function&quot;:8,&quot;hotspot_trigger_type&quot;:0,&quot;identifier_type&quot;:10,&quot;reference_string&quot;:&quot;&quot;},{&quot;character_option&quot;:39,&quot;function&quot;:19,&quot;identifier&quot;:&quot;Surak&quot;,&quot;identifier_type&quot;:3,&quot;param_type&quot;:7,&quot;value_type_option&quot;:0},{&quot;function&quot;:7,&quot;line&quot;:0}]}&#x0A;' />
+            <parameter name="Show UI Grid" type="int" val="1" />
+            <parameter name="Transform Relative" type="int" val="0" />
+            <parameter name="UI Snap Scale" type="int" val="20" />
+        </parameters>
+        <Connections />
+        <ConnectionsFrom />
+    </Hotspot>
+    <CameraObject t0="-149.769" t1="1028.35" t2="-43.5893" s0="1" s1="1" s2="1" q0="0.00658578" q1="0.874106" q2="-0.0118561" q3="0.485546" euler_x="-3.11447" euler_y="1.01408" euler_z="3.14159" id="271">
         <parameters />
     </CameraObject>
 </ActorObjects>
