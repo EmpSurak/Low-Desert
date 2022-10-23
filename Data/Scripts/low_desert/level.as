@@ -1,10 +1,13 @@
 #include "timed_execution/timed_execution.as"
 #include "timed_execution/after_init_job.as"
 #include "timed_execution/delayed_job.as"
+#include "music_load.as"
 
 TimedExecution timer;
+MusicLoad ml("Data/Music/low_desert/low_desert.xml");
 
 void Init(string level_name){
+    PlaySong("gimin");
 }
 
 void Update(int is_paused){
