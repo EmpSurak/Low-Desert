@@ -89,11 +89,40 @@
         </Connections>
         <ItemConnections />
         <Palette>
-            <Color label="Fur" channel="0" red="1" green="1" blue="1" />
-            <Color label="Shirt" channel="1" red="1" green="1" blue="1" />
+            <Color label="Fur" channel="0" red="0" green="0.260728" blue="0.796078" />
+            <Color label="Shirt" channel="1" red="1" green="0.8" blue="0.8" />
             <Color label="Pants" channel="2" red="1" green="1" blue="1" />
-            <Color label="Spots" channel="3" red="1" green="1" blue="1" />
+            <Color label="Spots" channel="3" red="0.166667" green="1" blue="0" />
         </Palette>
+        <EnvObjectAttachments>
+            <EnvObjectAttachment>
+                <BoneConnect bone_id="31" num_connections="1" m0="0.999679" m1="-0.00255234" m2="0.0251932" m3="0" m4="0.00262775" m5="0.999992" m6="-0.00296053" m7="0" m8="-0.0251855" m9="0.00302579" m10="0.999678" m11="0" m12="-0.0522022" m13="0.555212" m14="0.102077" m15="1" />
+                <BoneConnect bone_id="-1" num_connections="0" m0="1" m1="0" m2="0" m3="0" m4="0" m5="1" m6="0" m7="0" m8="0" m9="0" m10="1" m11="0" m12="0" m13="0" m14="0" m15="1" />
+                <BoneConnect bone_id="-1" num_connections="0" m0="1" m1="0" m2="0" m3="0" m4="0" m5="1" m6="0" m7="0" m8="0" m9="0" m10="1" m11="0" m12="0" m13="0" m14="0" m15="1" />
+                <BoneConnect bone_id="-1" num_connections="0" m0="1" m1="0" m2="0" m3="0" m4="0" m5="1" m6="0" m7="0" m8="0" m9="0" m10="1" m11="0" m12="0" m13="0" m14="0" m15="1" />
+            </EnvObjectAttachment>
+            <EnvObjectAttachment>
+                <BoneConnect bone_id="31" num_connections="1" m0="0.989154" m1="-0.00216437" m2="0.146865" m3="0" m4="0.00262764" m5="0.999992" m6="-0.00296044" m7="0" m8="-0.146858" m9="0.00331424" m10="0.989152" m11="0" m12="0.04879" m13="0.554942" m14="0.100157" m15="1" />
+                <BoneConnect bone_id="-1" num_connections="0" m0="1" m1="0" m2="0" m3="0" m4="0" m5="1" m6="0" m7="0" m8="0" m9="0" m10="1" m11="0" m12="0" m13="0" m14="0" m15="1" />
+                <BoneConnect bone_id="-1" num_connections="0" m0="1" m1="0" m2="0" m3="0" m4="0" m5="1" m6="0" m7="0" m8="0" m9="0" m10="1" m11="0" m12="0" m13="0" m14="0" m15="1" />
+                <BoneConnect bone_id="-1" num_connections="0" m0="1" m1="0" m2="0" m3="0" m4="0" m5="1" m6="0" m7="0" m8="0" m9="0" m10="1" m11="0" m12="0" m13="0" m14="0" m15="1" />
+            </EnvObjectAttachment>
+            <EnvObjectAttachment>
+                <BoneConnect bone_id="31" num_connections="1" m0="-0.187326" m1="0.131303" m2="0.973483" m3="0" m4="-0.0131013" m5="0.990604" m6="-0.136134" m7="0" m8="-0.98221" m9="-0.0382552" m10="-0.183845" m11="0" m12="-0.00209427" m13="0.51718" m14="0.164519" m15="1" />
+                <BoneConnect bone_id="-1" num_connections="0" m0="1" m1="0" m2="0" m3="0" m4="0" m5="1" m6="0" m7="0" m8="0" m9="0" m10="1" m11="0" m12="0" m13="0" m14="0" m15="1" />
+                <BoneConnect bone_id="-1" num_connections="0" m0="1" m1="0" m2="0" m3="0" m4="0" m5="1" m6="0" m7="0" m8="0" m9="0" m10="1" m11="0" m12="0" m13="0" m14="0" m15="1" />
+                <BoneConnect bone_id="-1" num_connections="0" m0="1" m1="0" m2="0" m3="0" m4="0" m5="1" m6="0" m7="0" m8="0" m9="0" m10="1" m11="0" m12="0" m13="0" m14="0" m15="1" />
+            </EnvObjectAttachment>
+        </EnvObjectAttachments>
+        <EnvObject s0="0.347414" s1="0.347414" s2="0.347414" id="150" color_r="1" color_g="1" color_b="1" overbright="0" type_file="Data/Objects/Gear/RatJunk/RatJunkBirdSkull.xml">
+            <parameters />
+        </EnvObject>
+        <EnvObject s0="0.347414" s1="0.347414" s2="0.347414" id="153" color_r="1" color_g="1" color_b="1" overbright="0" type_file="Data/Objects/Gear/RatJunk/RatJunkBirdSkull.xml">
+            <parameters />
+        </EnvObject>
+        <EnvObject s0="0.228601" s1="0.228601" s2="0.228601" id="159" color_r="1" color_g="1" color_b="1" overbright="0" type_file="Data/Objects/Environment/Bones/DogLegBone.xml">
+            <parameters />
+        </EnvObject>
     </ActorObject>
     <Group t0="35.5" t1="47.1932" t2="-41.5" s0="16" s1="1.55859" s2="16" q0="0" q1="0" q2="0" q3="1" euler_x="0" euler_y="0" euler_z="0" id="3" version="1">
         <parameters />
@@ -113,12 +142,12 @@
             <parameters />
         </EnvObject>
     </Group>
-    <Group name="Upside Tech Pyramid" t0="22.3994" t1="-7.08416" t2="6.70509" s0="15" s1="15" s2="15" q0="0.559192" q1="0" q2="0.829037" q3="0" euler_x="0" euler_y="-1.18682" euler_z="3.14159" id="8" version="1">
+    <Group name="Upside Tech Pyramid" t0="22.3994" t1="-7.08416" t2="6.70509" s0="15" s1="15" s2="15" q0="0.748945" q1="0" q2="-0.662612" q3="0" euler_x="3.14159" euler_y="1.44842" euler_z="-3.66876e-006" id="8" version="1">
         <parameters />
-        <EnvObject t0="22.397" t1="-7.22603" t2="6.70633" s0="7.06495" s1="7.35188" s2="7.06488" q0="0.559192" q1="-8.75318e-005" q2="0.829037" q3="5.90494e-005" euler_x="-0.000211139" euler_y="-1.18682" euler_z="3.14159" id="9" color_r="1" color_g="1" color_b="1" overbright="0" type_file="Data/Custom/FnB/Objects/Simple Shapes/scifihex/pyramid.xml">
+        <EnvObject t0="22.4014" t1="-7.22603" t2="6.70327" s0="7.06495" s1="7.35188" s2="7.06488" q0="0.748944" q1="7.0104e-005" q2="-0.662611" q3="7.95754e-005" euler_x="3.14138" euler_y="1.44839" euler_z="-3.66876e-006" id="9" color_r="1" color_g="1" color_b="1" overbright="0" type_file="Data/Custom/FnB/Objects/Simple Shapes/scifihex/pyramid.xml">
             <parameters />
         </EnvObject>
-        <EnvObject t0="22.3994" t1="0.24053" t2="6.70509" s0="7.49415" s1="1.05026" s2="7.4941" q0="6.56843e-005" q1="0.829037" q2="9.7394e-005" q3="-0.559192" euler_x="3.14136" euler_y="-1.18682" euler_z="-3.14159" id="10" color_r="1" color_g="1" color_b="1" overbright="0" type_file="Data/Custom/FnB/Objects/Simple Shapes/scifipanel/platform.xml">
+        <EnvObject t0="22.3994" t1="0.24053" t2="6.70509" s0="7.49415" s1="1.05026" s2="7.4941" q0="8.83937e-005" q1="-0.662611" q2="-7.79033e-005" q3="-0.748944" euler_x="-0.000239265" euler_y="1.44839" euler_z="-3.6995e-006" id="10" color_r="1" color_g="1" color_b="1" overbright="0" type_file="Data/Custom/FnB/Objects/Simple Shapes/scifipanel/platform.xml">
             <parameters />
         </EnvObject>
     </Group>
@@ -161,12 +190,12 @@
             <parameters />
         </EnvObject>
     </Group>
-    <Group name="Tech Pyramid" t0="22.3994" t1="14.5113" t2="6.70509" s0="15" s1="15" s2="15" q0="0" q1="-0.559192" q2="0" q3="0.829037" euler_x="0" euler_y="-1.18682" euler_z="0" id="25" version="1">
+    <Group name="Tech Pyramid" t0="22.3994" t1="14.5113" t2="6.70509" s0="15" s1="15" s2="15" q0="0" q1="-0.748946" q2="0" q3="-0.662614" euler_x="3.14159" euler_y="1.44844" euler_z="3.14159" id="25" version="1">
         <parameters />
-        <EnvObject t0="22.4018" t1="14.6532" t2="6.70638" s0="7.06495" s1="7.35188" s2="7.06488" q0="-8.76784e-005" q1="-0.559192" q2="-5.91874e-005" q3="0.829037" euler_x="-0.000211376" euler_y="-1.18682" euler_z="0" id="26" color_r="1" color_g="1" color_b="1" overbright="0" type_file="Data/Custom/FnB/Objects/Simple Shapes/scifihex/pyramid.xml">
+        <EnvObject t0="22.3974" t1="14.6532" t2="6.70322" s0="7.06495" s1="7.35188" s2="7.06488" q0="6.96778e-005" q1="-0.748945" q2="-7.87377e-005" q3="-0.662612" euler_x="3.14138" euler_y="1.44841" euler_z="-3.14159" id="26" color_r="1" color_g="1" color_b="1" overbright="0" type_file="Data/Custom/FnB/Objects/Simple Shapes/scifihex/pyramid.xml">
             <parameters />
         </EnvObject>
-        <EnvObject t0="22.3994" t1="7.1866" t2="6.70509" s0="7.49414" s1="1.05026" s2="7.49409" q0="0.829037" q1="-6.57755e-005" q2="0.559192" q3="9.73887e-005" euler_x="3.14136" euler_y="-1.18682" euler_z="0" id="27" color_r="1" color_g="1" color_b="1" overbright="0" type_file="Data/Custom/FnB/Objects/Simple Shapes/scifipanel/platform.xml">
+        <EnvObject t0="22.3994" t1="7.1866" t2="6.70509" s0="7.49414" s1="1.05026" s2="7.49409" q0="-0.662612" q1="-8.76052e-005" q2="0.748945" q3="-7.75336e-005" euler_x="-0.000233601" euler_y="1.44841" euler_z="-3.14159" id="27" color_r="1" color_g="1" color_b="1" overbright="0" type_file="Data/Custom/FnB/Objects/Simple Shapes/scifipanel/platform.xml">
             <parameters />
         </EnvObject>
     </Group>
@@ -231,6 +260,9 @@
         <parameters />
     </EnvObject>
     <EnvObject name="Set Velocity Helper" t0="-75.5034" t1="108.556" t2="-40.7822" s0="0.25" s1="0.25" s2="0.25" q0="0" q1="0" q2="0" q3="1" euler_x="0" euler_y="0" euler_z="0" id="43" color_r="1" color_g="1" color_b="1" overbright="0" type_file="Data/Objects/drika_hotspot_cube.xml">
+        <parameters />
+    </EnvObject>
+    <EnvObject name="Set Velocity Helper" t0="-75.5034" t1="108.556" t2="-40.7822" s0="0.25" s1="0.25" s2="0.25" q0="0" q1="0" q2="0" q3="1" euler_x="0" euler_y="0" euler_z="0" id="44" color_r="1" color_g="1" color_b="1" overbright="0" type_file="Data/Objects/drika_hotspot_cube.xml">
         <parameters />
     </EnvObject>
     <EnvObject t0="35.5" t1="35.4221" t2="-41.5" s0="1.4" s1="50.5965" s2="1.4" q0="0" q1="0" q2="0" q3="1" euler_x="0" euler_y="0" euler_z="0" id="49" color_r="0.639216" color_g="0.0376009" color_b="0.0376009" overbright="0" type_file="Data/Custom/FnB/Objects/Simple Shapes/glass/ringthin.xml">
@@ -780,7 +812,7 @@
         <Connections />
         <ConnectionsFrom />
     </Hotspot>
-    <CameraObject t0="14.5508" t1="8.1993" t2="30.9813" s0="1" s1="1" s2="1" q0="0.111419" q1="0.192337" q2="-0.0219854" q3="0.974735" euler_x="0.227626" euler_y="0.389639" euler_z="0" id="271">
+    <CameraObject t0="-29.9559" t1="-7.18967" t2="5.68752" s0="1" s1="1" s2="1" q0="0.243724" q1="-0.22746" q2="0.0589167" q3="0.940951" euler_x="0.506898" euler_y="-0.474369" euler_z="0" id="271">
         <parameters />
     </CameraObject>
 </ActorObjects>
@@ -793,4 +825,6 @@
     <SpawnerItem display_name="Invisible Block" path="Data/Objects/invisibleblock.xml" thumbnail_path="Data/UI/spawner/thumbs/Static Objects/invisibleblock.png" />
     <SpawnerItem display_name="Magma Arena Flag Red 1" path="Data/Prototypes/MagmaArena/MagmaArenaFlag_Red1.xml" thumbnail_path="" />
     <SpawnerItem display_name="Drika Hotspot" path="Data/Objects/Hotspots/drika_hotspot.xml" thumbnail_path="Data/UI/spawner/thumbs/Utility/empty_placeholder.png" />
+    <SpawnerItem display_name="Bird Skull" path="Data/Objects/Gear/RatJunk/RatJunkBirdSkull.xml" thumbnail_path="Data/UI/spawner/thumbs/Object/birdskull.png" />
+    <SpawnerItem display_name="Leg Bone" path="Data/Objects/Environment/Bones/DogLegBone.xml" thumbnail_path="Data/UI/spawner/thumbs/Object/boneleg.png" />
 </RecentItems>
