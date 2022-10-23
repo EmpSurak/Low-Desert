@@ -5,7 +5,7 @@
 <Shader>post</Shader>
 <Shadows>true</Shadows>
 <LoadingScreen>
-    <Image></Image>
+    <Image>Data/Images/low_desert/thumb.jpg</Image>
 </LoadingScreen>
 <Terrain>
     <Heightmap>Data/Textures/Terrain/red_hills/red_hills_hm.png</Heightmap>
@@ -142,15 +142,15 @@
             <parameters />
         </EnvObject>
     </Group>
-    <Group name="Upside Tech Pyramid" t0="22.3994" t1="-5.32509" t2="6.70509" s0="14.9982" s1="18.5185" s2="14.9982" q0="2.86102e-006" q1="-0.998581" q2="0" q3="0.0523438" euler_x="-3.14159" euler_y="-0.10473" euler_z="-3.14159" id="8" version="1">
+    <Group name="Upside Tech Pyramid" t0="22.3994" t1="-5.32509" t2="6.70509" s0="14.9982" s1="18.5185" s2="14.9982" q0="2.71201e-006" q1="-0.894889" q2="2.39862e-006" q3="-0.446162" euler_x="-3.14158" euler_y="0.924852" euler_z="-3.14158" id="8" version="1">
         <parameters />
-        <EnvObject t0="22.4016" t1="-7.22603" t2="6.70663" s0="7.06495" s1="7.35188" s2="7.06488" q0="-0.998579" q1="-8.37073e-006" q2="0.0523437" q3="-0.000105977" euler_x="3.14138" euler_y="0.10473" euler_z="5.65419e-006" id="9" color_r="1" color_g="1" color_b="1" overbright="0" type_file="Data/Custom/FnB/Objects/Simple Shapes/scifihex/pyramid.xml">
+        <EnvObject t0="22.3992" t1="-7.22603" t2="6.70777" s0="7.06495" s1="7.35188" s2="7.06488" q0="-0.890874" q1="4.55976e-005" q2="-0.45391" q3="-9.68575e-005" euler_x="3.14137" euler_y="-0.94203" euler_z="1.13719e-005" id="9" color_r="1" color_g="1" color_b="1" overbright="0" type_file="Data/Custom/FnB/Objects/Simple Shapes/scifihex/pyramid.xml">
             <parameters />
         </EnvObject>
-        <EnvObject t0="22.3994" t1="0.24053" t2="6.70509" s0="7.49415" s1="1.05026" s2="7.4941" q0="-0.00011775" q1="0.0523437" q2="9.00728e-006" q3="0.998579" euler_x="-0.000235513" euler_y="0.10473" euler_z="5.6932e-006" id="10" color_r="1" color_g="1" color_b="1" overbright="0" type_file="Data/Custom/FnB/Objects/Simple Shapes/scifipanel/platform.xml">
+        <EnvObject t0="22.3994" t1="0.24053" t2="6.70509" s0="7.49415" s1="1.05026" s2="7.4941" q0="-0.00010744" q1="-0.45391" q2="-5.08649e-005" q3="0.890874" euler_x="-0.000247062" euler_y="-0.942029" euler_z="1.17498e-005" id="10" color_r="1" color_g="1" color_b="1" overbright="0" type_file="Data/Custom/FnB/Objects/Simple Shapes/scifipanel/platform.xml">
             <parameters />
         </EnvObject>
-        <EnvObject t0="22.6139" t1="2.06879" t2="6.69442" s0="1.86035" s1="1" s2="6.06313" q0="0.706105" q1="-0.706101" q2="-0.0370123" q3="0.037013" euler_x="3.03684" euler_y="0" euler_z="-1.57069" id="11" color_r="1" color_g="1" color_b="1" overbright="0" type_file="Data/Custom/FnB/Objects/Simple Shapes/scifipanelsmall/platform.xml">
+        <EnvObject t0="22.5159" t1="2.06879" t2="6.8855" s0="1.86035" s1="1" s2="6.06313" q0="0.629946" q1="-0.629942" q2="0.320965" q3="-0.320961" euler_x="-2.19889" euler_y="-7.24196e-006" euler_z="-1.57049" id="11" color_r="1" color_g="1" color_b="1" overbright="0" type_file="Data/Custom/FnB/Objects/Simple Shapes/scifipanelsmall/platform.xml">
             <parameters />
         </EnvObject>
     </Group>
@@ -193,15 +193,15 @@
         <Connections />
         <ConnectionsFrom />
     </Hotspot>
-    <Group name="Tech Pyramid" t0="22.3994" t1="9.57021" t2="6.70515" s0="14.9983" s1="21.557" s2="14.9983" q0="2.86102e-006" q1="0.998581" q2="0" q3="0.0523438" euler_x="-3.14159" euler_y="0.10473" euler_z="3.14159" id="26" version="1">
+    <Group name="Tech Pyramid" t0="22.3994" t1="9.57021" t2="6.70515" s0="14.9983" s1="21.557" s2="14.9983" q0="2.68221e-006" q1="0.890961" q2="-2.41166e-006" q3="-0.453955" euler_x="-3.14158" euler_y="-0.942299" euler_z="3.14158" id="26" version="1">
         <parameters />
-        <EnvObject t0="22.3978" t1="12.9902" t2="6.70292" s0="7.06505" s1="7.352" s2="7.06499" q0="7.66851e-005" q1="-0.669089" q2="-6.83665e-005" q3="-0.743114" euler_x="-0.000214879" euler_y="1.46509" euler_z="-9.65267e-006" id="27" color_r="1" color_g="1" color_b="1" overbright="0" type_file="Data/Custom/FnB/Objects/Simple Shapes/scifihex/pyramid.xml">
+        <EnvObject t0="22.3967" t1="12.9902" t2="6.70541" s0="7.06505" s1="7.352" s2="7.06499" q0="3.28124e-005" q1="-0.950905" q2="-9.66787e-005" q3="-0.30898" euler_x="3.14139" euler_y="0.628116" euler_z="-3.14159" id="27" color_r="1" color_g="1" color_b="1" overbright="0" type_file="Data/Custom/FnB/Objects/Simple Shapes/scifihex/pyramid.xml">
             <parameters />
         </EnvObject>
-        <EnvObject t0="22.3994" t1="5.52369" t2="6.70515" s0="7.49415" s1="1.05026" s2="7.4941" q0="-0.743114" q1="-7.62567e-005" q2="0.669089" q3="-8.54135e-005" euler_x="3.14135" euler_y="1.46509" euler_z="-9.2082e-006" id="160" color_r="1" color_g="1" color_b="1" overbright="0" type_file="Data/Custom/FnB/Objects/Simple Shapes/scifipanel/platform.xml">
+        <EnvObject t0="22.3994" t1="5.52369" t2="6.70515" s0="7.49415" s1="1.05026" s2="7.4941" q0="-0.30898" q1="-0.000107855" q2="0.950905" q3="-3.64184e-005" euler_x="-0.00022571" euler_y="0.628116" euler_z="-3.14159" id="160" color_r="1" color_g="1" color_b="1" overbright="0" type_file="Data/Custom/FnB/Objects/Simple Shapes/scifipanel/platform.xml">
             <parameters />
         </EnvObject>
-        <EnvObject t0="22.4101" t1="2.17626" t2="6.49059" s0="3.37952" s1="0.999998" s2="6.06313" q0="0.47312" q1="0.473117" q2="0.525461" q3="0.525464" euler_x="1.46596" euler_y="0" euler_z="1.57069" id="161" color_r="1" color_g="1" color_b="1" overbright="0" type_file="Data/Custom/FnB/Objects/Simple Shapes/scifipanelsmall/platform.xml">
+        <EnvObject t0="22.2189" t1="2.17626" t2="6.58862" s0="3.37952" s1="0.999998" s2="6.06313" q0="0.672394" q1="0.672393" q2="0.21848" q3="0.218485" euler_x="2.51307" euler_y="6.85453e-006" euler_z="1.57049" id="161" color_r="1" color_g="1" color_b="1" overbright="0" type_file="Data/Custom/FnB/Objects/Simple Shapes/scifipanelsmall/platform.xml">
             <parameters />
         </EnvObject>
     </Group>
@@ -272,6 +272,12 @@
         <parameters />
     </EnvObject>
     <EnvObject name="Set Velocity Helper" t0="-75.5034" t1="108.556" t2="-40.7822" s0="0.25" s1="0.25" s2="0.25" q0="0" q1="0" q2="0" q3="1" euler_x="0" euler_y="0" euler_z="0" id="45" color_r="1" color_g="1" color_b="1" overbright="0" type_file="Data/Objects/drika_hotspot_cube.xml">
+        <parameters />
+    </EnvObject>
+    <EnvObject name="Set Velocity Helper" t0="-75.5034" t1="108.556" t2="-40.7822" s0="0.25" s1="0.25" s2="0.25" q0="0" q1="0" q2="0" q3="1" euler_x="0" euler_y="0" euler_z="0" id="46" color_r="1" color_g="1" color_b="1" overbright="0" type_file="Data/Objects/drika_hotspot_cube.xml">
+        <parameters />
+    </EnvObject>
+    <EnvObject name="Play Sound Helper" t0="49.3317" t1="3.32016" t2="5.85528" s0="0.25" s1="0.25" s2="0.25" q0="0" q1="0" q2="0" q3="1" euler_x="0" euler_y="0" euler_z="0" id="47" color_r="1" color_g="1" color_b="1" overbright="0" type_file="Data/Objects/drika_hotspot_cube.xml">
         <parameters />
     </EnvObject>
     <EnvObject t0="35.5" t1="35.4221" t2="-41.5" s0="1.4" s1="50.5965" s2="1.4" q0="0" q1="0" q2="0" q3="1" euler_x="0" euler_y="0" euler_z="0" id="49" color_r="0.639216" color_g="0.0376009" color_b="0.0376009" overbright="0" type_file="Data/Custom/FnB/Objects/Simple Shapes/glass/ringthin.xml">
@@ -683,6 +689,12 @@
     <EnvObject t0="-42.9938" t1="1012.98" t2="36.3344" s0="3.0831" s1="3.0831" s2="3.0831" q0="-0.756371" q1="0.146306" q2="-0.601567" q3="0.211221" euler_x="-1.93164" euler_y="-1.0126" euler_z="-1.11441" id="131" color_r="1" color_g="1" color_b="1" overbright="0" type_file="Data/Custom/FnB/Objects/Simple Shapes/marble/hollow_wedge_corner.xml">
         <parameters />
     </EnvObject>
+    <EnvObject name="Play Sound Helper" t0="35.5902" t1="13.547" t2="-42.173" s0="0.25" s1="0.25" s2="0.25" q0="0" q1="0" q2="0" q3="1" euler_x="0" euler_y="0" euler_z="0" id="132" color_r="1" color_g="1" color_b="1" overbright="0" type_file="Data/Objects/drika_hotspot_cube.xml">
+        <parameters />
+    </EnvObject>
+    <EnvObject name="Play Sound Helper" t0="16.3636" t1="72.4217" t2="-41.1627" s0="0.25" s1="0.25" s2="0.25" q0="0" q1="0" q2="0" q3="1" euler_x="0" euler_y="0" euler_z="0" id="133" color_r="1" color_g="1" color_b="1" overbright="0" type_file="Data/Objects/drika_hotspot_cube.xml">
+        <parameters />
+    </EnvObject>
     <EnvObject name="Set Velocity Helper" t0="-75.5034" t1="108.556" t2="-40.7822" s0="0.25" s1="0.25" s2="0.25" q0="0" q1="0" q2="0" q3="1" euler_x="0" euler_y="0" euler_z="0" id="134" color_r="1" color_g="1" color_b="1" overbright="0" type_file="Data/Objects/drika_hotspot_cube.xml">
         <parameters />
     </EnvObject>
@@ -725,11 +737,14 @@
     <EnvObject t0="-38.4783" t1="1044.27" t2="59.8829" s0="1" s1="1" s2="1" q0="0" q1="0.704091" q2="0" q3="0.710109" euler_x="0" euler_y="1.56216" euler_z="0" id="147" color_r="1" color_g="1" color_b="1" overbright="0" type_file="Data/Prototypes/MagmaArena/MagmaArenaFlag_Red1.xml">
         <parameters />
     </EnvObject>
+    <EnvObject name="Play Sound Helper" t0="-52.0324" t1="78.8001" t2="-41.1889" s0="0.25" s1="0.25" s2="0.25" q0="0" q1="0" q2="0" q3="1" euler_x="0" euler_y="0" euler_z="0" id="148" color_r="1" color_g="1" color_b="1" overbright="0" type_file="Data/Objects/drika_hotspot_cube.xml">
+        <parameters />
+    </EnvObject>
     <Hotspot name="Checkpoint After Pyramid" t0="49.3317" t1="1.32016" t2="5.85528" s0="3.27155" s1="1" s2="3.17047" q0="0" q1="0" q2="0" q3="1" euler_x="0" euler_y="0" euler_z="0" id="149" type_file="Data/Objects/Hotspots/drika_hotspot.xml">
         <parameters>
             <parameter name="Debug Current Line" type="int" val="0" />
             <parameter name="Run in EditorMode" type="int" val="1" />
-            <parameter name="Script Data" type="string" val='{&quot;functions&quot;:[{&quot;external_hotspot&quot;:false,&quot;function&quot;:8,&quot;hotspot_trigger_type&quot;:0,&quot;identifier_type&quot;:10,&quot;reference_string&quot;:&quot;&quot;},{&quot;duration&quot;:250,&quot;function&quot;:2},{&quot;ai_sound&quot;:false,&quot;function&quot;:6,&quot;gain&quot;:1,&quot;max_range&quot;:5,&quot;play_sound_method&quot;:0,&quot;priority&quot;:0,&quot;sound_path&quot;:&quot;Data/Sounds/weapon_foley/grab/weapon_grap_metal_leather_glove_6.wav&quot;,&quot;sound_type&quot;:0},{&quot;checkpoint_mode&quot;:0,&quot;function&quot;:37}]}&#x0A;' />
+            <parameter name="Script Data" type="string" val='{&quot;functions&quot;:[{&quot;external_hotspot&quot;:false,&quot;function&quot;:8,&quot;hotspot_trigger_type&quot;:0,&quot;identifier_type&quot;:10,&quot;reference_string&quot;:&quot;&quot;},{&quot;duration&quot;:250,&quot;function&quot;:2},{&quot;ai_sound&quot;:false,&quot;function&quot;:6,&quot;gain&quot;:1,&quot;max_range&quot;:5,&quot;placeholder_id&quot;:47,&quot;play_sound_method&quot;:0,&quot;priority&quot;:0,&quot;sound_path&quot;:&quot;Data/Sounds/weapon_foley/grab/weapon_grap_metal_leather_glove_6.wav&quot;,&quot;sound_type&quot;:0},{&quot;checkpoint_mode&quot;:0,&quot;function&quot;:37}]}&#x0A;' />
             <parameter name="Show UI Grid" type="int" val="1" />
             <parameter name="Transform Relative" type="int" val="0" />
             <parameter name="UI Snap Scale" type="int" val="20" />
@@ -777,7 +792,7 @@
         <parameters>
             <parameter name="Debug Current Line" type="int" val="0" />
             <parameter name="Run in EditorMode" type="int" val="1" />
-            <parameter name="Script Data" type="string" val='{&quot;functions&quot;:[{&quot;external_hotspot&quot;:false,&quot;function&quot;:8,&quot;hotspot_trigger_type&quot;:0,&quot;identifier_type&quot;:10,&quot;reference_string&quot;:&quot;&quot;},{&quot;duration&quot;:250,&quot;function&quot;:2},{&quot;ai_sound&quot;:false,&quot;function&quot;:6,&quot;gain&quot;:1,&quot;max_range&quot;:5,&quot;play_sound_method&quot;:0,&quot;priority&quot;:0,&quot;sound_path&quot;:&quot;Data/Sounds/weapon_foley/grab/weapon_grap_metal_leather_glove_6.wav&quot;,&quot;sound_type&quot;:0},{&quot;checkpoint_mode&quot;:0,&quot;function&quot;:37}]}&#x0A;' />
+            <parameter name="Script Data" type="string" val='{&quot;functions&quot;:[{&quot;external_hotspot&quot;:false,&quot;function&quot;:8,&quot;hotspot_trigger_type&quot;:0,&quot;identifier_type&quot;:10,&quot;reference_string&quot;:&quot;&quot;},{&quot;duration&quot;:250,&quot;function&quot;:2},{&quot;ai_sound&quot;:false,&quot;function&quot;:6,&quot;gain&quot;:1,&quot;max_range&quot;:5,&quot;placeholder_id&quot;:132,&quot;play_sound_method&quot;:0,&quot;priority&quot;:0,&quot;sound_path&quot;:&quot;Data/Sounds/weapon_foley/grab/weapon_grap_metal_leather_glove_6.wav&quot;,&quot;sound_type&quot;:0},{&quot;checkpoint_mode&quot;:0,&quot;function&quot;:37}]}&#x0A;' />
             <parameter name="Show UI Grid" type="int" val="1" />
             <parameter name="Transform Relative" type="int" val="0" />
             <parameter name="UI Snap Scale" type="int" val="20" />
@@ -789,7 +804,7 @@
         <parameters>
             <parameter name="Debug Current Line" type="int" val="0" />
             <parameter name="Run in EditorMode" type="int" val="1" />
-            <parameter name="Script Data" type="string" val='{&quot;functions&quot;:[{&quot;external_hotspot&quot;:false,&quot;function&quot;:8,&quot;hotspot_trigger_type&quot;:0,&quot;identifier_type&quot;:10,&quot;reference_string&quot;:&quot;&quot;},{&quot;duration&quot;:250,&quot;function&quot;:2},{&quot;ai_sound&quot;:false,&quot;function&quot;:6,&quot;gain&quot;:1,&quot;max_range&quot;:5,&quot;play_sound_method&quot;:0,&quot;priority&quot;:0,&quot;sound_path&quot;:&quot;Data/Sounds/weapon_foley/grab/weapon_grap_metal_leather_glove_6.wav&quot;,&quot;sound_type&quot;:0},{&quot;checkpoint_mode&quot;:0,&quot;function&quot;:37}]}&#x0A;' />
+            <parameter name="Script Data" type="string" val='{&quot;functions&quot;:[{&quot;external_hotspot&quot;:false,&quot;function&quot;:8,&quot;hotspot_trigger_type&quot;:0,&quot;identifier_type&quot;:10,&quot;reference_string&quot;:&quot;&quot;},{&quot;duration&quot;:250,&quot;function&quot;:2},{&quot;ai_sound&quot;:false,&quot;function&quot;:6,&quot;gain&quot;:1,&quot;max_range&quot;:5,&quot;placeholder_id&quot;:133,&quot;play_sound_method&quot;:0,&quot;priority&quot;:0,&quot;sound_path&quot;:&quot;Data/Sounds/weapon_foley/grab/weapon_grap_metal_leather_glove_6.wav&quot;,&quot;sound_type&quot;:0},{&quot;checkpoint_mode&quot;:0,&quot;function&quot;:37}]}&#x0A;' />
             <parameter name="Show UI Grid" type="int" val="1" />
             <parameter name="Transform Relative" type="int" val="0" />
             <parameter name="UI Snap Scale" type="int" val="20" />
@@ -801,7 +816,7 @@
         <parameters>
             <parameter name="Debug Current Line" type="int" val="0" />
             <parameter name="Run in EditorMode" type="int" val="1" />
-            <parameter name="Script Data" type="string" val='{&quot;functions&quot;:[{&quot;external_hotspot&quot;:false,&quot;function&quot;:8,&quot;hotspot_trigger_type&quot;:0,&quot;identifier_type&quot;:10,&quot;reference_string&quot;:&quot;&quot;},{&quot;duration&quot;:250,&quot;function&quot;:2},{&quot;ai_sound&quot;:false,&quot;function&quot;:6,&quot;gain&quot;:1,&quot;max_range&quot;:5,&quot;play_sound_method&quot;:0,&quot;priority&quot;:0,&quot;sound_path&quot;:&quot;Data/Sounds/weapon_foley/grab/weapon_grap_metal_leather_glove_6.wav&quot;,&quot;sound_type&quot;:0},{&quot;checkpoint_mode&quot;:0,&quot;function&quot;:37}]}&#x0A;' />
+            <parameter name="Script Data" type="string" val='{&quot;functions&quot;:[{&quot;external_hotspot&quot;:false,&quot;function&quot;:8,&quot;hotspot_trigger_type&quot;:0,&quot;identifier_type&quot;:10,&quot;reference_string&quot;:&quot;&quot;},{&quot;duration&quot;:250,&quot;function&quot;:2},{&quot;ai_sound&quot;:false,&quot;function&quot;:6,&quot;gain&quot;:1,&quot;max_range&quot;:5,&quot;placeholder_id&quot;:148,&quot;play_sound_method&quot;:0,&quot;priority&quot;:0,&quot;sound_path&quot;:&quot;Data/Sounds/weapon_foley/grab/weapon_grap_metal_leather_glove_6.wav&quot;,&quot;sound_type&quot;:0},{&quot;checkpoint_mode&quot;:0,&quot;function&quot;:37}]}&#x0A;' />
             <parameter name="Show UI Grid" type="int" val="1" />
             <parameter name="Transform Relative" type="int" val="0" />
             <parameter name="UI Snap Scale" type="int" val="20" />
@@ -813,7 +828,7 @@
         <parameters>
             <parameter name="Debug Current Line" type="int" val="0" />
             <parameter name="Run in EditorMode" type="int" val="1" />
-            <parameter name="Script Data" type="string" val='{&quot;functions&quot;:[{&quot;external_hotspot&quot;:false,&quot;function&quot;:8,&quot;hotspot_trigger_type&quot;:0,&quot;identifier_type&quot;:10,&quot;reference_string&quot;:&quot;&quot;},{&quot;duration&quot;:250,&quot;function&quot;:2},{&quot;ai_sound&quot;:false,&quot;function&quot;:6,&quot;gain&quot;:1,&quot;max_range&quot;:5,&quot;play_sound_method&quot;:0,&quot;priority&quot;:0,&quot;sound_path&quot;:&quot;Data/Sounds/weapon_foley/grab/weapon_grap_metal_leather_glove_6.wav&quot;,&quot;sound_type&quot;:0},{&quot;checkpoint_mode&quot;:0,&quot;function&quot;:37}]}&#x0A;' />
+            <parameter name="Script Data" type="string" val='{&quot;functions&quot;:[{&quot;external_hotspot&quot;:false,&quot;function&quot;:8,&quot;hotspot_trigger_type&quot;:0,&quot;identifier_type&quot;:10,&quot;reference_string&quot;:&quot;&quot;},{&quot;duration&quot;:250,&quot;function&quot;:2},{&quot;ai_sound&quot;:false,&quot;function&quot;:6,&quot;gain&quot;:1,&quot;max_range&quot;:5,&quot;placeholder_id&quot;:162,&quot;play_sound_method&quot;:0,&quot;priority&quot;:0,&quot;sound_path&quot;:&quot;Data/Sounds/weapon_foley/grab/weapon_grap_metal_leather_glove_6.wav&quot;,&quot;sound_type&quot;:0},{&quot;checkpoint_mode&quot;:0,&quot;function&quot;:37}]}&#x0A;' />
             <parameter name="Show UI Grid" type="int" val="1" />
             <parameter name="Transform Relative" type="int" val="0" />
             <parameter name="UI Snap Scale" type="int" val="20" />
@@ -821,7 +836,13 @@
         <Connections />
         <ConnectionsFrom />
     </Hotspot>
-    <CameraObject t0="7.94084" t1="3.69077" t2="20.0103" s0="1" s1="1" s2="1" q0="-0.113148" q1="-0.374324" q2="0.0460764" q3="-0.919215" euler_x="0.244953" euler_y="0.773432" euler_z="0" id="271">
+    <EnvObject name="Play Sound Helper" t0="-62.638" t1="94.4733" t2="-41.039" s0="0.25" s1="0.25" s2="0.25" q0="0" q1="0" q2="0" q3="1" euler_x="0" euler_y="0" euler_z="0" id="162" color_r="1" color_g="1" color_b="1" overbright="0" type_file="Data/Objects/drika_hotspot_cube.xml">
+        <parameters />
+    </EnvObject>
+    <EnvObject t0="3.58431" t1="83.2111" t2="-41.059" s0="1" s1="1" s2="1" q0="0" q1="0" q2="0" q3="1" euler_x="0" euler_y="0" euler_z="0" id="169" color_r="1" color_g="1" color_b="1" overbright="0" type_file="Data/Objects/Plants/Groundcover/ForkedWeed.xml">
+        <parameters />
+    </EnvObject>
+    <CameraObject t0="-32.1766" t1="4.74014" t2="28.1148" s0="1" s1="1" s2="1" q0="0.261276" q1="0.120159" q2="-0.0327987" q3="0.957194" euler_x="0.532938" euler_y="0.249759" euler_z="0" id="271">
         <parameters />
     </CameraObject>
 </ActorObjects>
@@ -836,4 +857,5 @@
     <SpawnerItem display_name="Drika Hotspot" path="Data/Objects/Hotspots/drika_hotspot.xml" thumbnail_path="Data/UI/spawner/thumbs/Utility/empty_placeholder.png" />
     <SpawnerItem display_name="Bird Skull" path="Data/Objects/Gear/RatJunk/RatJunkBirdSkull.xml" thumbnail_path="Data/UI/spawner/thumbs/Object/birdskull.png" />
     <SpawnerItem display_name="Leg Bone" path="Data/Objects/Environment/Bones/DogLegBone.xml" thumbnail_path="Data/UI/spawner/thumbs/Object/boneleg.png" />
+    <SpawnerItem display_name="Plant Forked Weed" path="Data/Objects/Plants/Groundcover/ForkedWeed.xml" thumbnail_path="" />
 </RecentItems>
