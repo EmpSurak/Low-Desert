@@ -45,7 +45,7 @@
     <RayToSun r0="-0.018092" r1="0.749923" r2="0.661278" />
 </Sky>
 <ActorObjects>
-    <ActorObject name="Surak 2" t0="-30.6644" t1="-8.08787" t2="4.25916" s0="1" s1="1" s2="1" q0="0" q1="0" q2="0" q3="1" euler_x="0" euler_y="0" euler_z="0" id="1" type_file="Data/Objects/characters/rabbits/male_rabbit_3_actor.xml" is_player="0">
+    <ActorObject name="Surak" t0="-30.6644" t1="-8.08787" t2="4.25916" s0="1" s1="1" s2="1" q0="0" q1="0" q2="0" q3="1" euler_x="0" euler_y="0" euler_z="0" id="1" type_file="Data/Objects/characters/rabbits/male_rabbit_3_actor.xml" is_player="1">
         <parameters>
             <parameter name="Aggression" type="float" val="0.5" />
             <parameter name="Attack Damage" type="float" val="1" />
@@ -113,12 +113,12 @@
             <parameters />
         </EnvObject>
     </Group>
-    <Group name="Upside Tech Pyramid" t0="22.4011" t1="-8.86504" t2="6.70358" s0="15" s1="15" s2="15" q0="4.08292e-005" q1="-0.818477" q2="1.89445e-005" q3="-0.572846" euler_x="-3.14136" euler_y="1.21602" euler_z="-3.14133" id="10" version="1">
+    <Group name="Upside Tech Pyramid" t0="22.4011" t1="-8.86504" t2="6.70358" s0="15" s1="15" s2="15" q0="2.14577e-006" q1="-0.19896" q2="-4.56721e-005" q3="0.978999" euler_x="2.4299e-005" euler_y="-0.400157" euler_z="-9.80416e-005" id="10" version="1">
         <parameters />
-        <EnvObject t0="22.4011" t1="-9.00722" t2="6.70357" s0="6.02744" s1="7.35364" s2="6.02742" q0="-0.646673" q1="1.54749e-005" q2="0.731249" q3="-4.14178e-005" euler_x="0.000465688" euler_y="1.23992" euler_z="-3.14043" id="8" color_r="1" color_g="1" color_b="1" overbright="0" type_file="Data/Custom/FnB/Objects/Simple Shapes/scifihex/pyramid.xml">
+        <EnvObject t0="22.4011" t1="-9.00722" t2="6.70357" s0="6.02744" s1="7.35364" s2="6.02742" q0="0.926629" q1="-4.48152e-005" q2="0.300854" q3="1.73599e-006" euler_x="-3.14156" euler_y="-0.591443" euler_z="-0.000100137" id="8" color_r="1" color_g="1" color_b="1" overbright="0" type_file="Data/Custom/FnB/Objects/Simple Shapes/scifihex/pyramid.xml">
             <parameters />
         </EnvObject>
-        <EnvObject t0="22.4008" t1="-1.5389" t2="6.70298" s0="6.39361" s1="1.05051" s2="6.39361" q0="-4.13656e-005" q1="0.731249" q2="-1.52588e-005" q3="0.646674" euler_x="-3.1405" euler_y="1.23993" euler_z="-3.14044" id="9" color_r="1" color_g="1" color_b="1" overbright="0" type_file="Data/Custom/FnB/Objects/Simple Shapes/scifipanel/platform.xml">
+        <EnvObject t0="22.4017" t1="-1.5389" t2="6.70371" s0="6.39361" s1="1.05051" s2="6.39361" q0="1.84774e-006" q1="0.300855" q2="4.48078e-005" q3="-0.92663" euler_x="2.87396e-005" euler_y="-0.591446" euler_z="-0.000100038" id="9" color_r="1" color_g="1" color_b="1" overbright="0" type_file="Data/Custom/FnB/Objects/Simple Shapes/scifipanel/platform.xml">
             <parameters />
         </EnvObject>
     </Group>
@@ -161,12 +161,12 @@
             <parameters />
         </EnvObject>
     </Group>
-    <Group name="Tech Pyramid" t0="22.4011" t1="14.511" t2="6.70359" s0="15" s1="15" s2="15" q0="-0.813257" q1="5.63264e-005" q2="-0.580213" q3="3.44119e-005" euler_x="-3.14122" euler_y="-1.23372" euler_z="-0.000402651" id="25" version="1">
+    <Group name="Tech Pyramid" t0="22.4011" t1="14.511" t2="6.70359" s0="15" s1="15" s2="15" q0="0.856364" q1="-5.54919e-005" q2="-0.514436" q3="3.73856e-005" euler_x="3.14133" euler_y="1.07816" euler_z="-0.00028363" id="25" version="1">
         <parameters />
-        <EnvObject t0="22.4011" t1="14.6532" t2="6.7036" s0="6.02744" s1="7.35364" s2="6.02742" q0="3.73125e-005" q1="-0.458219" q2="-5.06043e-005" q3="0.861565" euler_x="0.000190787" euler_y="-0.910109" euler_z="-0.000209272" id="26" color_r="1" color_g="1" color_b="1" overbright="0" type_file="Data/Custom/FnB/Objects/Simple Shapes/scifihex/pyramid.xml">
+        <EnvObject t0="22.4011" t1="14.6532" t2="6.7036" s0="6.02744" s1="7.35364" s2="6.02742" q0="3.06368e-005" q1="-0.60618" q2="5.57005e-005" q3="-0.762241" euler_x="-0.000430923" euler_y="1.1787" euler_z="-0.000460434" id="26" color_r="1" color_g="1" color_b="1" overbright="0" type_file="Data/Custom/FnB/Objects/Simple Shapes/scifihex/pyramid.xml">
             <parameters />
         </EnvObject>
-        <EnvObject t0="22.4008" t1="7.18485" t2="6.70269" s0="6.39361" s1="1.05051" s2="6.39361" q0="0.861565" q1="-5.06938e-005" q2="0.458219" q3="-3.74764e-005" euler_x="-3.14136" euler_y="-0.91011" euler_z="-0.000209797" id="27" color_r="1" color_g="1" color_b="1" overbright="0" type_file="Data/Custom/FnB/Objects/Simple Shapes/scifipanel/platform.xml">
+        <EnvObject t0="22.4006" t1="7.18485" t2="6.70439" s0="6.39361" s1="1.05051" s2="6.39361" q0="-0.762241" q1="5.58794e-005" q2="0.60618" q3="-3.07634e-005" euler_x="3.14089" euler_y="1.1787" euler_z="-0.000462042" id="27" color_r="1" color_g="1" color_b="1" overbright="0" type_file="Data/Custom/FnB/Objects/Simple Shapes/scifipanel/platform.xml">
             <parameters />
         </EnvObject>
     </Group>
@@ -228,6 +228,9 @@
         </EnvObject>
     </Group>
     <EnvObject name="Set Velocity Helper" t0="-75.5034" t1="108.556" t2="-40.7822" s0="0.25" s1="0.25" s2="0.25" q0="0" q1="0" q2="0" q3="1" euler_x="0" euler_y="0" euler_z="0" id="42" color_r="1" color_g="1" color_b="1" overbright="0" type_file="Data/Objects/drika_hotspot_cube.xml">
+        <parameters />
+    </EnvObject>
+    <EnvObject name="Set Velocity Helper" t0="-75.5034" t1="108.556" t2="-40.7822" s0="0.25" s1="0.25" s2="0.25" q0="0" q1="0" q2="0" q3="1" euler_x="0" euler_y="0" euler_z="0" id="43" color_r="1" color_g="1" color_b="1" overbright="0" type_file="Data/Objects/drika_hotspot_cube.xml">
         <parameters />
     </EnvObject>
     <EnvObject t0="35.5" t1="35.4221" t2="-41.5" s0="1.4" s1="50.5965" s2="1.4" q0="0" q1="0" q2="0" q3="1" euler_x="0" euler_y="0" euler_z="0" id="49" color_r="0.639216" color_g="0.0376009" color_b="0.0376009" overbright="0" type_file="Data/Custom/FnB/Objects/Simple Shapes/glass/ringthin.xml">
@@ -574,7 +577,7 @@
         <parameters>
             <parameter name="Debug Current Line" type="int" val="0" />
             <parameter name="Run in EditorMode" type="int" val="1" />
-            <parameter name="Script Data" type="string" val='{&quot;functions&quot;:[{&quot;enabled&quot;:false,&quot;function&quot;:3,&quot;identifier&quot;:&quot;Hyperloop Smoke&quot;,&quot;identifier_type&quot;:3},{&quot;external_hotspot&quot;:false,&quot;function&quot;:8,&quot;hotspot_trigger_type&quot;:0,&quot;identifier_type&quot;:10,&quot;reference_string&quot;:&quot;&quot;},{&quot;dialogue_function&quot;:11,&quot;function&quot;:33,&quot;use_fade&quot;:true},{&quot;dialogue_control&quot;:true,&quot;dialogue_function&quot;:13,&quot;function&quot;:33,&quot;identifier&quot;:&quot;Surak&quot;,&quot;identifier_type&quot;:3},{&quot;add_camera_shake&quot;:false,&quot;camera_transition&quot;:0,&quot;dialogue_function&quot;:8,&quot;dof_settings&quot;:[0,0,0,0,0,0],&quot;enable_look_at_target&quot;:false,&quot;enable_move_with_target&quot;:false,&quot;function&quot;:33,&quot;target_camera_position&quot;:[-85.152519226074219,108.55613708496094,-40.388599395751953],&quot;target_camera_rotation&quot;:[0,-90,0],&quot;target_camera_zoom&quot;:90},{&quot;auto_continue&quot;:false,&quot;dialogue_function&quot;:0,&quot;function&quot;:33,&quot;identifier&quot;:&quot;Surak&quot;,&quot;identifier_type&quot;:3,&quot;say_text&quot;:&quot;Finally! I did it.&quot;,&quot;voice_over_path&quot;:&quot;&quot;},{&quot;enabled&quot;:true,&quot;function&quot;:3,&quot;identifier&quot;:&quot;Hyperloop Smoke&quot;,&quot;identifier_type&quot;:3},{&quot;ai_sound&quot;:false,&quot;function&quot;:6,&quot;gain&quot;:1,&quot;max_range&quot;:5,&quot;placeholder_id&quot;:51,&quot;play_sound_method&quot;:0,&quot;priority&quot;:0,&quot;sound_path&quot;:&quot;Data/Sounds/low_desert/swoosh.wav&quot;,&quot;sound_type&quot;:0},{&quot;duration&quot;:2000,&quot;function&quot;:2},{&quot;dialogue_control&quot;:false,&quot;dialogue_function&quot;:13,&quot;function&quot;:33,&quot;identifier&quot;:&quot;Surak&quot;,&quot;identifier_type&quot;:3},{&quot;ai_sound&quot;:false,&quot;function&quot;:6,&quot;gain&quot;:1,&quot;max_range&quot;:5,&quot;placeholder_id&quot;:63,&quot;play_sound_method&quot;:0,&quot;priority&quot;:0,&quot;sound_path&quot;:&quot;Data/Sounds/explosives/explosion3.wav&quot;,&quot;sound_type&quot;:0},{&quot;add_velocity&quot;:true,&quot;function&quot;:24,&quot;height_offset&quot;:30,&quot;identifier&quot;:&quot;Surak&quot;,&quot;identifier_towards_target&quot;:&quot;Hyperloop Target&quot;,&quot;identifier_type&quot;:3,&quot;identifier_type_towards_target&quot;:3,&quot;set_velocity_mode&quot;:1,&quot;velocity_magnitude&quot;:100},{&quot;duration&quot;:3000,&quot;function&quot;:2},{&quot;function&quot;:16,&quot;identifier&quot;:&quot;Surak&quot;,&quot;identifier_target_location&quot;:&quot;Sky Spawn&quot;,&quot;identifier_type&quot;:3,&quot;identifier_type_target_location&quot;:3,&quot;transform_mode&quot;:1,&quot;translation_offset&quot;:[0,1,0],&quot;use_target_location&quot;:true,&quot;use_target_rotation&quot;:false,&quot;use_target_scale&quot;:false},{&quot;add_camera_shake&quot;:false,&quot;camera_transition&quot;:0,&quot;dialogue_function&quot;:8,&quot;dof_settings&quot;:[0,0,0,0,0,0],&quot;enable_look_at_target&quot;:false,&quot;enable_move_with_target&quot;:false,&quot;function&quot;:33,&quot;target_camera_position&quot;:[7.2690572738647461,1000.9293212890625,1.6036924123764038],&quot;target_camera_rotation&quot;:[-0,90,0],&quot;target_camera_zoom&quot;:90},{&quot;auto_continue&quot;:false,&quot;dialogue_function&quot;:0,&quot;function&quot;:33,&quot;identifier&quot;:&quot;Surak&quot;,&quot;identifier_type&quot;:3,&quot;say_text&quot;:&quot;... or not.&quot;,&quot;voice_over_path&quot;:&quot;&quot;},{&quot;dialogue_function&quot;:12,&quot;function&quot;:33,&quot;use_fade&quot;:true},{&quot;duration&quot;:250,&quot;function&quot;:2},{&quot;checkpoint_mode&quot;:0,&quot;function&quot;:37}]}&#x0A;' />
+            <parameter name="Script Data" type="string" val='{&quot;functions&quot;:[{&quot;enabled&quot;:false,&quot;function&quot;:3,&quot;identifier&quot;:&quot;Hyperloop Smoke&quot;,&quot;identifier_type&quot;:3},{&quot;external_hotspot&quot;:false,&quot;function&quot;:8,&quot;hotspot_trigger_type&quot;:0,&quot;identifier_type&quot;:10,&quot;reference_string&quot;:&quot;&quot;},{&quot;dialogue_function&quot;:11,&quot;function&quot;:33,&quot;use_fade&quot;:true},{&quot;dialogue_control&quot;:true,&quot;dialogue_function&quot;:13,&quot;function&quot;:33,&quot;identifier&quot;:&quot;Surak&quot;,&quot;identifier_type&quot;:3},{&quot;add_camera_shake&quot;:false,&quot;camera_transition&quot;:0,&quot;dialogue_function&quot;:8,&quot;dof_settings&quot;:[0,0,0,0,0,0],&quot;enable_look_at_target&quot;:false,&quot;enable_move_with_target&quot;:false,&quot;function&quot;:33,&quot;target_camera_position&quot;:[-85.152519226074219,108.55613708496094,-40.388599395751953],&quot;target_camera_rotation&quot;:[0,-90,0],&quot;target_camera_zoom&quot;:90},{&quot;auto_continue&quot;:false,&quot;dialogue_function&quot;:0,&quot;function&quot;:33,&quot;identifier&quot;:&quot;Surak&quot;,&quot;identifier_type&quot;:3,&quot;say_text&quot;:&quot;Finally! I did it.&quot;,&quot;voice_over_path&quot;:&quot;&quot;},{&quot;enabled&quot;:true,&quot;function&quot;:3,&quot;identifier&quot;:&quot;Hyperloop Smoke&quot;,&quot;identifier_type&quot;:3},{&quot;ai_sound&quot;:false,&quot;function&quot;:6,&quot;gain&quot;:1,&quot;max_range&quot;:5,&quot;placeholder_id&quot;:51,&quot;play_sound_method&quot;:0,&quot;priority&quot;:0,&quot;sound_path&quot;:&quot;Data/Sounds/low_desert/swoosh.wav&quot;,&quot;sound_type&quot;:0},{&quot;duration&quot;:2000,&quot;function&quot;:2},{&quot;dialogue_control&quot;:false,&quot;dialogue_function&quot;:13,&quot;function&quot;:33,&quot;identifier&quot;:&quot;Surak&quot;,&quot;identifier_type&quot;:3},{&quot;ai_sound&quot;:false,&quot;function&quot;:6,&quot;gain&quot;:1,&quot;max_range&quot;:5,&quot;placeholder_id&quot;:63,&quot;play_sound_method&quot;:0,&quot;priority&quot;:0,&quot;sound_path&quot;:&quot;Data/Sounds/explosives/explosion3.wav&quot;,&quot;sound_type&quot;:0},{&quot;add_velocity&quot;:true,&quot;function&quot;:24,&quot;height_offset&quot;:30,&quot;identifier&quot;:&quot;Surak&quot;,&quot;identifier_towards_target&quot;:&quot;Hyperloop Target&quot;,&quot;identifier_type&quot;:3,&quot;identifier_type_towards_target&quot;:3,&quot;set_velocity_mode&quot;:1,&quot;velocity_magnitude&quot;:100},{&quot;duration&quot;:3000,&quot;function&quot;:2},{&quot;function&quot;:16,&quot;identifier&quot;:&quot;Surak&quot;,&quot;identifier_target_location&quot;:&quot;Sky Spawn&quot;,&quot;identifier_type&quot;:3,&quot;identifier_type_target_location&quot;:3,&quot;transform_mode&quot;:1,&quot;translation_offset&quot;:[0,1,0],&quot;use_target_location&quot;:true,&quot;use_target_rotation&quot;:false,&quot;use_target_scale&quot;:false},{&quot;add_camera_shake&quot;:false,&quot;camera_transition&quot;:0,&quot;dialogue_function&quot;:8,&quot;dof_settings&quot;:[0,0,0,0,0,0],&quot;enable_look_at_target&quot;:false,&quot;enable_move_with_target&quot;:false,&quot;function&quot;:33,&quot;target_camera_position&quot;:[7.2690572738647461,1000.9293212890625,1.6036924123764038],&quot;target_camera_rotation&quot;:[0,90,0],&quot;target_camera_zoom&quot;:90},{&quot;auto_continue&quot;:false,&quot;dialogue_function&quot;:0,&quot;function&quot;:33,&quot;identifier&quot;:&quot;Surak&quot;,&quot;identifier_type&quot;:3,&quot;say_text&quot;:&quot;... or not.&quot;,&quot;voice_over_path&quot;:&quot;&quot;},{&quot;dialogue_function&quot;:12,&quot;function&quot;:33,&quot;use_fade&quot;:true},{&quot;duration&quot;:250,&quot;function&quot;:2},{&quot;checkpoint_mode&quot;:0,&quot;function&quot;:37}]}&#x0A;' />
             <parameter name="Show UI Grid" type="int" val="1" />
             <parameter name="Transform Relative" type="int" val="0" />
             <parameter name="UI Snap Scale" type="int" val="20" />
@@ -639,56 +642,6 @@
     <EnvObject t0="-42.9938" t1="1012.98" t2="36.3344" s0="3.0831" s1="3.0831" s2="3.0831" q0="-0.756371" q1="0.146306" q2="-0.601567" q3="0.211221" euler_x="-1.93164" euler_y="-1.0126" euler_z="-1.11441" id="131" color_r="1" color_g="1" color_b="1" overbright="0" type_file="Data/Custom/FnB/Objects/Simple Shapes/marble/hollow_wedge_corner.xml">
         <parameters />
     </EnvObject>
-    <ActorObject name="Surak" t0="-70.4183" t1="106.636" t2="-41.189" s0="1" s1="1" s2="1" q0="0" q1="0" q2="0" q3="1" euler_x="0" euler_y="0" euler_z="0" id="133" type_file="Data/Objects/characters/rabbits/male_rabbit_3_actor.xml" is_player="1">
-        <parameters>
-            <parameter name="Aggression" type="float" val="0.5" />
-            <parameter name="Attack Damage" type="float" val="1" />
-            <parameter name="Attack Knockback" type="float" val="1" />
-            <parameter name="Attack Speed" type="float" val="1" />
-            <parameter name="Block Follow-up" type="float" val="0.5" />
-            <parameter name="Block Skill" type="float" val="0.5" />
-            <parameter name="Cannot Be Disarmed" type="int" val="0" />
-            <parameter name="Character Scale" type="float" val="1" />
-            <parameter name="Damage Resistance" type="float" val="1" />
-            <parameter name="Ear Size" type="float" val="1" />
-            <parameter name="Fall Damage Multiplier" type="float" val="1" />
-            <parameter name="Fat" type="float" val="0.5" />
-            <parameter name="Fear - Afraid At Health Level" type="float" val="0" />
-            <parameter name="Fear - Always Afraid On Sight" type="int" val="0" />
-            <parameter name="Fear - Causes Fear On Sight" type="int" val="0" />
-            <parameter name="Fear - Never Afraid On Sight" type="int" val="0" />
-            <parameter name="Focus FOV distance" type="float" val="100" />
-            <parameter name="Focus FOV horizontal" type="float" val="0.62834" />
-            <parameter name="Focus FOV vertical" type="float" val="0.62834" />
-            <parameter name="Ground Aggression" type="float" val="0.5" />
-            <parameter name="Knockout Shield" type="int" val="0" />
-            <parameter name="Left handed" type="int" val="0" />
-            <parameter name="Movement Speed" type="float" val="1" />
-            <parameter name="Muscle" type="float" val="0.5" />
-            <parameter name="No Look Around" type="int" val="0" />
-            <parameter name="Peripheral FOV distance" type="float" val="4" />
-            <parameter name="Peripheral FOV horizontal" type="float" val="1.41376" />
-            <parameter name="Peripheral FOV vertical" type="float" val="1.41376" />
-            <parameter name="Species" type="string" val="rabbit" />
-            <parameter name="Static" type="int" val="0" />
-            <parameter name="Stick To Nav Mesh" type="int" val="0" />
-            <parameter name="Teams" type="string" val="cat" />
-            <parameter name="Throw Counter Probability" type="float" val="0.4" />
-            <parameter name="Throw Trainer" type="int" val="0" />
-            <parameter name="Weapon Catch Skill" type="float" val="1" />
-            <parameter name="Wearing Metal Armor" type="int" val="0" />
-        </parameters>
-        <Connections>
-            <Connection id="133" />
-        </Connections>
-        <ItemConnections />
-        <Palette>
-            <Color label="Fur" channel="0" red="1" green="1" blue="1" />
-            <Color label="Shirt" channel="1" red="1" green="1" blue="1" />
-            <Color label="Pants" channel="2" red="1" green="1" blue="1" />
-            <Color label="Spots" channel="3" red="1" green="1" blue="1" />
-        </Palette>
-    </ActorObject>
     <EnvObject name="Set Velocity Helper" t0="-75.5034" t1="108.556" t2="-40.7822" s0="0.25" s1="0.25" s2="0.25" q0="0" q1="0" q2="0" q3="1" euler_x="0" euler_y="0" euler_z="0" id="134" color_r="1" color_g="1" color_b="1" overbright="0" type_file="Data/Objects/drika_hotspot_cube.xml">
         <parameters />
     </EnvObject>
@@ -767,6 +720,18 @@
         <Connections />
         <ConnectionsFrom />
     </Hotspot>
+    <Hotspot name="Outro Controller" t0="-38.3959" t1="1043.26" t2="60.1805" s0="1" s1="1" s2="1" q0="0" q1="0" q2="0" q3="1" euler_x="0" euler_y="0" euler_z="0" id="154" type_file="Data/Objects/Hotspots/drika_hotspot.xml">
+        <parameters>
+            <parameter name="Debug Current Line" type="int" val="0" />
+            <parameter name="Run in EditorMode" type="int" val="1" />
+            <parameter name="Script Data" type="string" val='{&quot;functions&quot;:[{&quot;external_hotspot&quot;:false,&quot;function&quot;:8,&quot;hotspot_trigger_type&quot;:0,&quot;identifier_type&quot;:10,&quot;reference_string&quot;:&quot;&quot;},{&quot;display_message&quot;:&quot;\n\n\nEpic win&quot;,&quot;font_path&quot;:&quot;Data/Fonts/Cella.ttf&quot;,&quot;font_size&quot;:100,&quot;function&quot;:20},{&quot;dialogue_function&quot;:11,&quot;function&quot;:33,&quot;use_fade&quot;:true},{&quot;dialogue_control&quot;:true,&quot;dialogue_function&quot;:13,&quot;function&quot;:33,&quot;identifier&quot;:&quot;Surak&quot;,&quot;identifier_type&quot;:3},{&quot;add_camera_shake&quot;:false,&quot;camera_transition&quot;:0,&quot;dialogue_function&quot;:8,&quot;dof_settings&quot;:[0,0,0,0,0,0],&quot;enable_look_at_target&quot;:false,&quot;enable_move_with_target&quot;:false,&quot;function&quot;:33,&quot;target_camera_position&quot;:[-38.395923614501953,1048.2701416015625,68.2158203125],&quot;target_camera_rotation&quot;:[0.88898974657058716,-15.089807510375977,-0.23968197405338287],&quot;target_camera_zoom&quot;:90},{&quot;duration&quot;:10000,&quot;function&quot;:2},{&quot;dialogue_control&quot;:false,&quot;dialogue_function&quot;:13,&quot;function&quot;:33,&quot;identifier&quot;:&quot;Surak&quot;,&quot;identifier_type&quot;:3},{&quot;dialogue_function&quot;:12,&quot;function&quot;:33,&quot;use_fade&quot;:true},{&quot;function&quot;:10,&quot;level_message_type&quot;:0,&quot;message&quot;:&quot;go_to_main_menu&quot;}]}&#x0A;' />
+            <parameter name="Show UI Grid" type="int" val="1" />
+            <parameter name="Transform Relative" type="int" val="0" />
+            <parameter name="UI Snap Scale" type="int" val="20" />
+        </parameters>
+        <Connections />
+        <ConnectionsFrom />
+    </Hotspot>
     <Hotspot name="Checkpoint Before Glass Tube" t0="35.5902" t1="11.547" t2="-42.173" s0="1.82229" s1="1.15916" s2="1.81328" q0="0" q1="0" q2="0" q3="1" euler_x="0" euler_y="0" euler_z="0" id="155" type_file="Data/Objects/Hotspots/drika_hotspot.xml">
         <parameters>
             <parameter name="Debug Current Line" type="int" val="0" />
@@ -815,7 +780,7 @@
         <Connections />
         <ConnectionsFrom />
     </Hotspot>
-    <CameraObject t0="6.68333" t1="1009.67" t2="-4.2083" s0="1" s1="1" s2="1" q0="-0.115095" q1="0.867712" q2="-0.236913" q3="-0.421546" euler_x="-2.60852" euler_y="-0.904469" euler_z="3.14159" id="271">
+    <CameraObject t0="-34.1562" t1="3.17198" t2="6.85778" s0="1" s1="1" s2="1" q0="0.37708" q1="0.49706" q2="-0.253551" q3="0.739225" euler_x="0.943392" euler_y="1.18393" euler_z="0" id="271">
         <parameters />
     </CameraObject>
 </ActorObjects>
