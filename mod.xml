@@ -19,6 +19,16 @@
     <NeedsRestart>false</NeedsRestart>
 
     <ModDependency>
+       <Id>com-surak-timed-execution</Id>
+       <Version>1.0.0</Version> 
+    </ModDependency>
+    
+    <ModDependency>
+       <Id>drika-hotspot</Id>
+       <Version>0.1.0</Version> 
+    </ModDependency>
+
+    <ModDependency>
        <Id>simple-shapes</Id>
        <Version>1.0</Version> 
     </ModDependency>
