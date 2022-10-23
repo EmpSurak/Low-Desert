@@ -113,12 +113,12 @@
             <parameters />
         </EnvObject>
     </Group>
-    <Group name="Upside Tech Pyramid" t0="22.4011" t1="-8.86504" t2="6.70358" s0="15" s1="15" s2="15" q0="4.18723e-005" q1="-0.955489" q2="1.54716e-006" q3="-0.291921" euler_x="-3.14156" euler_y="0.591799" euler_z="-3.14149" id="10" version="1">
+    <Group name="Upside Tech Pyramid" t0="22.4011" t1="-8.86504" t2="6.70358" s0="15" s1="15" s2="15" q0="3.48091e-005" q1="-0.965024" q2="-2.1308e-005" q3="0.258769" euler_x="3.14152" euler_y="-0.522947" euler_z="-3.1415" id="10" version="1">
         <parameters />
-        <EnvObject t0="22.4011" t1="-9.00722" t2="6.70357" s0="6.02744" s1="7.35364" s2="6.02742" q0="-0.38476" q1="-2.0694e-006" q2="0.906937" q3="-4.13135e-005" euler_x="3.98311e-005" euler_y="0.77247" euler_z="-3.14148" id="8" color_r="1" color_g="1" color_b="1" overbright="0" type_file="Data/Custom/FnB/Objects/Simple Shapes/scifihex/pyramid.xml">
+        <EnvObject t0="22.4011" t1="-9.00722" t2="6.70357" s0="6.02744" s1="7.35364" s2="6.02742" q0="0.154305" q1="-2.39201e-005" q2="0.973046" q3="-3.241e-005" euler_x="-5.93805e-005" euler_y="-0.304999" euler_z="-3.14151" id="8" color_r="1" color_g="1" color_b="1" overbright="0" type_file="Data/Custom/FnB/Objects/Simple Shapes/scifihex/pyramid.xml">
             <parameters />
         </EnvObject>
-        <EnvObject t0="22.4005" t1="-1.5389" t2="6.70337" s0="6.39361" s1="1.05051" s2="6.39361" q0="-4.1455e-005" q1="0.906938" q2="2.14577e-006" q3="0.384761" euler_x="-3.14155" euler_y="0.772473" euler_z="-3.14148" id="9" color_r="1" color_g="1" color_b="1" overbright="0" type_file="Data/Custom/FnB/Objects/Simple Shapes/scifipanel/platform.xml">
+        <EnvObject t0="22.4007" t1="-1.5389" t2="6.70403" s0="6.39361" s1="1.05051" s2="6.39361" q0="-3.23951e-005" q1="0.973047" q2="2.39611e-005" q3="-0.154304" euler_x="3.14153" euler_y="-0.304998" euler_z="-3.14151" id="9" color_r="1" color_g="1" color_b="1" overbright="0" type_file="Data/Custom/FnB/Objects/Simple Shapes/scifipanel/platform.xml">
             <parameters />
         </EnvObject>
     </Group>
@@ -161,12 +161,12 @@
             <parameters />
         </EnvObject>
     </Group>
-    <Group name="Tech Pyramid" t0="22.4011" t1="14.511" t2="6.70359" s0="15" s1="15" s2="15" q0="-0.594202" q1="4.60744e-005" q2="-0.803172" q3="4.46802e-005" euler_x="-0.00043257" euler_y="-1.26795" euler_z="-3.14116" id="25" version="1">
+    <Group name="Tech Pyramid" t0="22.4011" t1="14.511" t2="6.70359" s0="15" s1="15" s2="15" q0="-0.0782998" q1="1.87159e-005" q2="-0.996039" q3="5.85783e-005" euler_x="-4.70335e-005" euler_y="-0.156619" euler_z="-3.14147" id="25" version="1">
         <parameters />
-        <EnvObject t0="22.4011" t1="14.6532" t2="6.7036" s0="6.02744" s1="7.35364" s2="6.02742" q0="4.6432e-005" q1="-0.702554" q2="-4.11272e-005" q3="0.690265" euler_x="0.00949648" euler_y="-1.32481" euler_z="-0.00950664" id="26" color_r="1" color_g="1" color_b="1" overbright="0" type_file="Data/Custom/FnB/Objects/Simple Shapes/scifihex/pyramid.xml">
+        <EnvObject t0="22.4011" t1="14.6532" t2="6.7036" s0="6.02744" s1="7.35364" s2="6.02742" q0="5.80177e-005" q1="-0.963437" q2="-1.35899e-005" q3="0.204689" euler_x="3.14153" euler_y="-0.405426" euler_z="-3.14146" id="26" color_r="1" color_g="1" color_b="1" overbright="0" type_file="Data/Custom/FnB/Objects/Simple Shapes/scifihex/pyramid.xml">
             <parameters />
         </EnvObject>
-        <EnvObject t0="22.4013" t1="7.18485" t2="6.70267" s0="6.39361" s1="1.05051" s2="6.39361" q0="0.690266" q1="-4.09707e-005" q2="0.702555" q3="-4.64767e-005" euler_x="-0.00258644" euler_y="-1.32482" euler_z="-0.00949595" id="27" color_r="1" color_g="1" color_b="1" overbright="0" type_file="Data/Custom/FnB/Objects/Simple Shapes/scifipanel/platform.xml">
+        <EnvObject t0="22.4019" t1="7.18485" t2="6.7033" s0="6.39361" s1="1.05051" s2="6.39361" q0="0.20469" q1="-1.33188e-005" q2="0.963439" q3="-5.80102e-005" euler_x="-5.39312e-005" euler_y="-0.405428" euler_z="-3.14146" id="27" color_r="1" color_g="1" color_b="1" overbright="0" type_file="Data/Custom/FnB/Objects/Simple Shapes/scifipanel/platform.xml">
             <parameters />
         </EnvObject>
     </Group>
@@ -251,12 +251,12 @@
             <parameter name="Owner" type="int" val="43" />
         </parameters>
     </EnvObject>
-    <Group name="Glass Sphere" t0="17.2335" t1="1" t2="3.57473" s0="4.01" s1="4.12267" s2="4.01" q0="0" q1="0" q2="0" q3="1" euler_x="0" euler_y="0" euler_z="0" id="47" version="1">
+    <Group name="Glass Sphere" t0="24.9449" t1="1" t2="10.1648" s0="4.01" s1="4.12267" s2="4.01" q0="0" q1="0" q2="0" q3="1" euler_x="0" euler_y="0" euler_z="0" id="47" version="1">
         <parameters />
-        <EnvObject t0="17.2335" t1="1.19038" t2="3.57473" s0="2.00004" s1="2.00004" s2="2.00004" q0="0" q1="0" q2="0" q3="1" euler_x="0" euler_y="0" euler_z="0" id="42" color_r="0.00392157" color_g="0.0021684" color_b="0.0021684" overbright="0" type_file="Data/Custom/FnB/Objects/Simple Shapes/glass/sphere.xml">
+        <EnvObject t0="24.9907" t1="1.19038" t2="10.2039" s0="2.00004" s1="2.00004" s2="2.00004" q0="0" q1="0" q2="0" q3="1" euler_x="0" euler_y="0" euler_z="0" id="42" color_r="0.00392157" color_g="0.0021684" color_b="0.0021684" overbright="0" type_file="Data/Custom/FnB/Objects/Simple Shapes/glass/sphere.xml">
             <parameters />
         </EnvObject>
-        <Hotspot t0="17.2335" t1="0.943666" t2="3.57473" s0="1" s1="1" s2="1" q0="0" q1="0" q2="0" q3="1" euler_x="0" euler_y="0" euler_z="0" id="46" type_file="Data/Objects/Hotspots/drika_hotspot.xml">
+        <Hotspot t0="24.9907" t1="0.943666" t2="10.2039" s0="1" s1="1" s2="1" q0="0" q1="0" q2="0" q3="1" euler_x="0" euler_y="0" euler_z="0" id="46" type_file="Data/Objects/Hotspots/drika_hotspot.xml">
             <parameters>
                 <parameter name="Debug Current Line" type="int" val="0" />
                 <parameter name="Run in EditorMode" type="int" val="1" />
@@ -281,7 +281,7 @@
             <parameters />
         </EnvObject>
     </Group>
-    <ActorObject name="Surak" t0="-62.5339" t1="91.9885" t2="-40.6631" s0="1" s1="1" s2="1" q0="0" q1="0" q2="0" q3="1" euler_x="0" euler_y="0" euler_z="0" id="51" type_file="Data/Objects/characters/rabbits/male_rabbit_3_actor.xml" is_player="1">
+    <ActorObject name="Surak" t0="-69.9886" t1="106.621" t2="-41.1244" s0="1" s1="1" s2="1" q0="0" q1="0" q2="0" q3="1" euler_x="0" euler_y="0" euler_z="0" id="51" type_file="Data/Objects/characters/rabbits/male_rabbit_3_actor.xml" is_player="1">
         <parameters>
             <parameter name="Aggression" type="float" val="0.5" />
             <parameter name="Attack Damage" type="float" val="1" />
@@ -538,7 +538,7 @@
     <EnvObject t0="-67.1297" t1="109.18" t2="-42.6905" s0="1" s1="1" s2="1" q0="0" q1="0.707107" q2="0" q3="0.707107" euler_x="3.14159" euler_y="1.5708" euler_z="3.14159" id="97" color_r="0.537255" color_g="0.357277" color_b="0.248612" overbright="0" type_file="Data/Custom/FnB/Objects/Simple Shapes/hardwood/half_tube.xml">
         <parameters />
     </EnvObject>
-    <Group t0="-61.7153" t1="105.903" t2="-40.7784" s0="28.1281" s1="28.8775" s2="14.4702" q0="0" q1="0" q2="0" q3="1" euler_x="0" euler_y="0" euler_z="0" id="101" version="1">
+    <Group t0="-61.7153" t1="105.901" t2="-40.7784" s0="28.1281" s1="28.8738" s2="14.4702" q0="0" q1="0" q2="0" q3="1" euler_x="0" euler_y="0" euler_z="0" id="101" version="1">
         <parameters />
         <Hotspot t0="-61.7095" t1="105.9" t2="-34.8621" s0="5.71894" s1="7.21581" s2="0.654452" q0="0" q1="0" q2="0" q3="1" euler_x="0" euler_y="0" euler_z="0" id="102" type_file="Data/Objects/Hotspots/drika_hotspot.xml">
             <parameters>
@@ -564,7 +564,7 @@
             <Connections />
             <ConnectionsFrom />
         </Hotspot>
-        <Hotspot t0="-74.4654" t1="105.905" t2="-40.7785" s0="3.6143" s1="7.21581" s2="0.654452" q0="0" q1="0.707107" q2="0" q3="0.707107" euler_x="0" euler_y="1.57045" euler_z="0" id="76" type_file="Data/Objects/Hotspots/drika_hotspot.xml">
+        <Hotspot t0="-74.4654" t1="97.5509" t2="-40.7785" s0="3.6143" s1="3.03894" s2="0.654452" q0="0" q1="0.707107" q2="0" q3="0.707107" euler_x="0" euler_y="1.57045" euler_z="0" id="76" type_file="Data/Objects/Hotspots/drika_hotspot.xml">
             <parameters>
                 <parameter name="Debug Current Line" type="int" val="0" />
                 <parameter name="Run in EditorMode" type="int" val="1" />
@@ -601,14 +601,59 @@
         <Connections />
         <ConnectionsFrom />
     </Hotspot>
-    <CameraObject t0="-56.0832" t1="106.287" t2="-11.4688" s0="1" s1="1" s2="1" q0="-0.0960145" q1="0.0791791" q2="-0.00766208" q3="-0.992196" euler_x="0.192939" euler_y="-0.159266" euler_z="0" id="271">
+    <Group name="Sky Spawn" t0="0" t1="1000" t2="0" s0="5.23108" s1="2.65754" s2="5.23005" q0="0" q1="0" q2="0" q3="1" euler_x="0" euler_y="0" euler_z="0" id="104" version="1">
+        <parameters />
+        <EnvObject t0="0" t1="999.878" t2="0" s0="2" s1="2" s2="2" q0="0" q1="0" q2="0" q3="1" euler_x="0" euler_y="0" euler_z="0" id="112" color_r="1" color_g="1" color_b="1" overbright="0" type_file="Data/Custom/FnB/Objects/Simple Shapes/scifipanel/half_sphere.xml">
+            <parameters />
+        </EnvObject>
+        <EnvObject t0="0.000301361" t1="1001.09" t2="-0.000198364" s0="2" s1="2" s2="2" q0="0" q1="0" q2="0" q3="1" euler_x="0" euler_y="0" euler_z="0" id="113" color_r="0.635294" color_g="0.434324" color_b="0.196817" overbright="0" type_file="Data/Custom/FnB/Objects/Simple Shapes/hardwood/disk.xml">
+            <parameters />
+        </EnvObject>
+    </Group>
+    <EnvObject t0="-73.9434" t1="106.36" t2="-40.7497" s0="1" s1="1.64382" s2="1" q0="0" q1="0" q2="-0.707107" q3="0.707107" euler_x="0" euler_y="0" euler_z="-1.5708" id="105" color_r="0.537255" color_g="0.357277" color_b="0.248612" overbright="0" type_file="Data/Custom/FnB/Objects/Simple Shapes/hardwood/half_tube.xml">
+        <parameters />
+    </EnvObject>
+    <EnvObject t0="-76.2702" t1="108.814" t2="-40.5353" s0="1" s1="1" s2="1" q0="0" q1="0" q2="0.707107" q3="0.707107" euler_x="0" euler_y="0" euler_z="1.5708" id="106" color_r="1" color_g="0.635294" color_b="0" overbright="50" type_file="Data/Custom/FnB/Objects/Simple Shapes/roughwood/torus.xml">
+        <parameters />
+    </EnvObject>
+    <EnvObject t0="-73.8235" t1="108.814" t2="-40.5353" s0="1" s1="1" s2="1" q0="0" q1="0" q2="0.707107" q3="0.707107" euler_x="0" euler_y="0" euler_z="1.5708" id="107" color_r="1" color_g="0.635294" color_b="0" overbright="50" type_file="Data/Custom/FnB/Objects/Simple Shapes/roughwood/torus.xml">
+        <parameters />
+    </EnvObject>
+    <EnvObject t0="-78.652" t1="108.814" t2="-40.5353" s0="1" s1="1" s2="1" q0="0" q1="0" q2="0.707107" q3="0.707107" euler_x="0" euler_y="0" euler_z="1.5708" id="108" color_r="1" color_g="0.635294" color_b="0" overbright="50" type_file="Data/Custom/FnB/Objects/Simple Shapes/roughwood/torus.xml">
+        <parameters />
+    </EnvObject>
+    <Hotspot name="Hyperloop Smoke" t0="-75.9238" t1="107.879" t2="-40.7522" s0="1.30284" s1="1" s2="0.860885" q0="0" q1="0" q2="0" q3="1" euler_x="0" euler_y="0" euler_z="0" id="109" type_file="Data/Objects/Hotspots/emitter.xml">
+        <parameters>
+            <parameter name="Type" type="string" val="Smoke" />
+        </parameters>
+        <Connections />
+        <ConnectionsFrom />
+    </Hotspot>
+    <Hotspot name="Hyperloop Controller" t0="-75.5034" t1="106.556" t2="-40.7822" s0="1.62188" s1="1" s2="0.919993" q0="0" q1="0" q2="0" q3="1" euler_x="0" euler_y="0" euler_z="0" id="110" type_file="Data/Objects/Hotspots/drika_hotspot.xml">
+        <parameters>
+            <parameter name="Debug Current Line" type="int" val="0" />
+            <parameter name="Run in EditorMode" type="int" val="1" />
+            <parameter name="Script Data" type="string" val='{&quot;functions&quot;:[{&quot;enabled&quot;:false,&quot;function&quot;:3,&quot;identifier&quot;:&quot;Hyperloop Smoke&quot;,&quot;identifier_type&quot;:3},{&quot;external_hotspot&quot;:false,&quot;function&quot;:8,&quot;hotspot_trigger_type&quot;:0,&quot;identifier_type&quot;:10,&quot;reference_string&quot;:&quot;&quot;},{&quot;dialogue_function&quot;:11,&quot;function&quot;:33,&quot;use_fade&quot;:true},{&quot;add_camera_shake&quot;:false,&quot;camera_transition&quot;:0,&quot;dialogue_function&quot;:8,&quot;dof_settings&quot;:[0,0,0,0,0,0],&quot;enable_look_at_target&quot;:false,&quot;enable_move_with_target&quot;:false,&quot;function&quot;:33,&quot;target_camera_position&quot;:[-85.152519226074219,108.55613708496094,-40.388599395751953],&quot;target_camera_rotation&quot;:[-0,-90,0],&quot;target_camera_zoom&quot;:90},{&quot;enabled&quot;:true,&quot;function&quot;:3,&quot;identifier&quot;:&quot;Hyperloop Smoke&quot;,&quot;identifier_type&quot;:3},{&quot;ai_sound&quot;:false,&quot;function&quot;:6,&quot;gain&quot;:1,&quot;max_range&quot;:5,&quot;play_sound_method&quot;:0,&quot;priority&quot;:0,&quot;sound_path&quot;:&quot;Data/Sounds/low_desert/swoosh.wav&quot;,&quot;sound_type&quot;:0},{&quot;duration&quot;:2000,&quot;function&quot;:2},{&quot;ai_sound&quot;:false,&quot;function&quot;:6,&quot;gain&quot;:1,&quot;max_range&quot;:5,&quot;play_sound_method&quot;:0,&quot;priority&quot;:0,&quot;sound_path&quot;:&quot;Data/Sounds/explosives/explosion3.wav&quot;,&quot;sound_type&quot;:0},{&quot;add_velocity&quot;:true,&quot;function&quot;:24,&quot;height_offset&quot;:30,&quot;identifier&quot;:&quot;Surak&quot;,&quot;identifier_towards_target&quot;:&quot;Hyperloop Target&quot;,&quot;identifier_type&quot;:3,&quot;identifier_type_towards_target&quot;:3,&quot;set_velocity_mode&quot;:1,&quot;velocity_magnitude&quot;:100},{&quot;duration&quot;:3000,&quot;function&quot;:2},{&quot;function&quot;:16,&quot;identifier&quot;:&quot;Surak&quot;,&quot;identifier_target_location&quot;:&quot;Sky Spawn&quot;,&quot;identifier_type&quot;:3,&quot;identifier_type_target_location&quot;:3,&quot;transform_mode&quot;:1,&quot;translation_offset&quot;:[0,1,0],&quot;use_target_location&quot;:true,&quot;use_target_rotation&quot;:false,&quot;use_target_scale&quot;:false},{&quot;dialogue_function&quot;:12,&quot;function&quot;:33,&quot;use_fade&quot;:true}]}&#x0A;' />
+            <parameter name="Show UI Grid" type="int" val="1" />
+            <parameter name="Transform Relative" type="int" val="0" />
+            <parameter name="UI Snap Scale" type="int" val="20" />
+        </parameters>
+        <Connections />
+        <ConnectionsFrom />
+    </Hotspot>
+    <EnvObject name="Hyperloop Target" t0="-203.55" t1="106" t2="-40.6015" s0="1" s1="1" s2="1" q0="0" q1="0" q2="0" q3="1" euler_x="0" euler_y="0" euler_z="0" id="111" color_r="1" color_g="1" color_b="1" overbright="0" type_file="Data/Objects/invisibleblock.xml">
+        <parameters />
+    </EnvObject>
+    <CameraObject t0="-86.2123" t1="118.211" t2="-37.1166" s0="1" s1="1" s2="1" q0="0.263597" q1="0.52937" q2="-0.177386" q3="0.78665" euler_x="0.646658" euler_y="1.18467" euler_z="0" id="271">
         <parameters />
     </CameraObject>
 </ActorObjects>
 <RecentItems>
     <SpawnerItem display_name="Male Rabbit Buttons" path="Data/Objects/characters/rabbits/male_rabbit_3_actor.xml" thumbnail_path="Data/UI/spawner/thumbs/Character/Male_rabbit_3_actor.png" />
     <SpawnerItem display_name="Path Point" path="Data/Objects/pathpoint/pathpoint.xml" thumbnail_path="Data/UI/spawner/thumbs/Utility/pathpoint.png" />
-    <SpawnerItem display_name="Drika Hotspot" path="Data/Objects/Hotspots/drika_hotspot.xml" thumbnail_path="Data/UI/spawner/thumbs/Utility/empty_placeholder.png" />
     <SpawnerItem display_name="Alpha Male Wolf" path="Data/Objects/IGF_Characters/IGF_Wolf.xml" thumbnail_path="Data/UI/spawner/thumbs/Object/Alpha Male Wolf.png" />
     <SpawnerItem display_name="Alpha Male Wolf" path="Data/Objects/IGF_Characters/IGF_WolfActor.xml" thumbnail_path="Data/UI/spawner/thumbs/Character/IGF_wolfActor.png" />
+    <SpawnerItem display_name="Particle Emitter Hotspot" path="Data/Objects/Hotspots/emitter.xml" thumbnail_path="Data/UI/spawner/thumbs/Hotspot/emitter_icon.png" />
+    <SpawnerItem display_name="Drika Hotspot" path="Data/Objects/Hotspots/drika_hotspot.xml" thumbnail_path="Data/UI/spawner/thumbs/Utility/empty_placeholder.png" />
+    <SpawnerItem display_name="Invisible Block" path="Data/Objects/invisibleblock.xml" thumbnail_path="Data/UI/spawner/thumbs/Static Objects/invisibleblock.png" />
 </RecentItems>
